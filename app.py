@@ -57,13 +57,16 @@ st.markdown("""
         transform: translateY(-2px);
     }
 
-    /* Mensaje de éxito (Azul Oscuro / Azul Claro) */
+    /* Mensaje de éxito (Fondo verde oscuro / Texto Claro) */
     .stSuccess {
-        background-color: #0A192F !important; /* Azul oscuro */
-        color: #64FFDA !important; /* Azul claro / Cian para el texto */
-        border: 1px solid #64FFDA;
+        background-color: #1c3d2e !important; /* Verde muy oscuro */
+        border: 1px solid #4A5D23; /* Borde musgo */
         border-radius: 8px;
         font-weight: 500;
+    }
+    /* Forzar visibilidad del texto en el mensaje de éxito */
+    .stSuccess p, .stSuccess strong {
+        color: #e8f5e9 !important; /* Blanco verdoso para máximo contraste */
     }
     
     /* Separador sutil */
@@ -87,7 +90,7 @@ def cargar_modelo():
 modelo = cargar_modelo()
 
 if modelo is None:
-    st.error("No se pudo cargar el modelo. Asegúrate de haber ejecutado entrenar.py primero.")
+    st.error("No se pudo cargar el modelo. Asegúrate de haber subido modelo_cafe.joblib al repositorio.")
 else:
     # 2. Interfaz: Columnas con controles minimalistas
     st.markdown("### Parámetros de Simulación")
