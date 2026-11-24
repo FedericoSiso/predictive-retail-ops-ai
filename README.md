@@ -53,5 +53,5 @@ Se diseñó una interfaz minimalista, con un esquema de alto contraste (Dark mod
 ### Instrucciones de Uso Local
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
-   cd nombre-del-repo
+   git clone [https://github.com/FedericoSiso/predictive-retail-ops-ai.git](https://github.com/FedericoSiso/predictive-retail-ops-ai.git)
+   cd predictive-retail-ops-ai
