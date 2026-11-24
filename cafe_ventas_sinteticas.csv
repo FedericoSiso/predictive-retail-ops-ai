@@ -1,0 +1,1826 @@
+Fecha,Dia_Semana,Temp_Max_C,Lluvia,Promocion,Producto,Cantidad_Vendida
+2024-01-01,Monday,26,0,0,Croissant,19
+2024-01-01,Monday,26,0,0,Iced Coffee,46
+2024-01-01,Monday,26,0,0,Sandwich,31
+2024-01-01,Monday,26,0,0,Banana Bread,38
+2024-01-01,Monday,26,0,0,Hot Chocolate,5
+2024-01-02,Tuesday,24,0,0,Croissant,37
+2024-01-02,Tuesday,24,0,0,Iced Coffee,34
+2024-01-02,Tuesday,24,0,0,Sandwich,38
+2024-01-02,Tuesday,24,0,0,Banana Bread,35
+2024-01-02,Tuesday,24,0,0,Hot Chocolate,17
+2024-01-03,Wednesday,24,1,0,Croissant,26
+2024-01-03,Wednesday,24,1,0,Iced Coffee,28
+2024-01-03,Wednesday,24,1,0,Sandwich,35
+2024-01-03,Wednesday,24,1,0,Banana Bread,27
+2024-01-03,Wednesday,24,1,0,Hot Chocolate,42
+2024-01-04,Thursday,24,0,0,Croissant,28
+2024-01-04,Thursday,24,0,0,Iced Coffee,32
+2024-01-04,Thursday,24,0,0,Sandwich,26
+2024-01-04,Thursday,24,0,0,Banana Bread,21
+2024-01-04,Thursday,24,0,0,Hot Chocolate,33
+2024-01-05,Friday,31,1,0,Croissant,31
+2024-01-05,Friday,31,1,0,Iced Coffee,56
+2024-01-05,Friday,31,1,0,Sandwich,31
+2024-01-05,Friday,31,1,0,Banana Bread,29
+2024-01-05,Friday,31,1,0,Hot Chocolate,7
+2024-01-06,Saturday,28,0,1,Croissant,89
+2024-01-06,Saturday,28,0,1,Iced Coffee,121
+2024-01-06,Saturday,28,0,1,Sandwich,59
+2024-01-06,Saturday,28,0,1,Banana Bread,62
+2024-01-06,Saturday,28,0,1,Hot Chocolate,16
+2024-01-07,Sunday,23,0,0,Croissant,72
+2024-01-07,Sunday,23,0,0,Iced Coffee,45
+2024-01-07,Sunday,23,0,0,Sandwich,47
+2024-01-07,Sunday,23,0,0,Banana Bread,47
+2024-01-07,Sunday,23,0,0,Hot Chocolate,46
+2024-01-08,Monday,23,0,0,Croissant,28
+2024-01-08,Monday,23,0,0,Iced Coffee,30
+2024-01-08,Monday,23,0,0,Sandwich,35
+2024-01-08,Monday,23,0,0,Banana Bread,35
+2024-01-08,Monday,23,0,0,Hot Chocolate,31
+2024-01-09,Tuesday,18,0,0,Croissant,18
+2024-01-09,Tuesday,18,0,0,Iced Coffee,37
+2024-01-09,Tuesday,18,0,0,Sandwich,33
+2024-01-09,Tuesday,18,0,0,Banana Bread,35
+2024-01-09,Tuesday,18,0,0,Hot Chocolate,33
+2024-01-10,Wednesday,22,1,0,Croissant,25
+2024-01-10,Wednesday,22,1,0,Iced Coffee,20
+2024-01-10,Wednesday,22,1,0,Sandwich,32
+2024-01-10,Wednesday,22,1,0,Banana Bread,18
+2024-01-10,Wednesday,22,1,0,Hot Chocolate,56
+2024-01-11,Thursday,21,0,0,Croissant,22
+2024-01-11,Thursday,21,0,0,Iced Coffee,18
+2024-01-11,Thursday,21,0,0,Sandwich,25
+2024-01-11,Thursday,21,0,0,Banana Bread,32
+2024-01-11,Thursday,21,0,0,Hot Chocolate,32
+2024-01-12,Friday,19,0,1,Croissant,38
+2024-01-12,Friday,19,0,1,Iced Coffee,44
+2024-01-12,Friday,19,0,1,Sandwich,45
+2024-01-12,Friday,19,0,1,Banana Bread,36
+2024-01-12,Friday,19,0,1,Hot Chocolate,33
+2024-01-13,Saturday,35,1,0,Croissant,60
+2024-01-13,Saturday,35,1,0,Iced Coffee,67
+2024-01-13,Saturday,35,1,0,Sandwich,53
+2024-01-13,Saturday,35,1,0,Banana Bread,40
+2024-01-13,Saturday,35,1,0,Hot Chocolate,20
+2024-01-14,Sunday,26,0,0,Croissant,70
+2024-01-14,Sunday,26,0,0,Iced Coffee,82
+2024-01-14,Sunday,26,0,0,Sandwich,51
+2024-01-14,Sunday,26,0,0,Banana Bread,50
+2024-01-14,Sunday,26,0,0,Hot Chocolate,3
+2024-01-15,Monday,22,0,0,Croissant,26
+2024-01-15,Monday,22,0,0,Iced Coffee,22
+2024-01-15,Monday,22,0,0,Sandwich,38
+2024-01-15,Monday,22,0,0,Banana Bread,14
+2024-01-15,Monday,22,0,0,Hot Chocolate,29
+2024-01-16,Tuesday,23,0,0,Croissant,35
+2024-01-16,Tuesday,23,0,0,Iced Coffee,19
+2024-01-16,Tuesday,23,0,0,Sandwich,39
+2024-01-16,Tuesday,23,0,0,Banana Bread,34
+2024-01-16,Tuesday,23,0,0,Hot Chocolate,33
+2024-01-17,Wednesday,24,1,0,Croissant,35
+2024-01-17,Wednesday,24,1,0,Iced Coffee,37
+2024-01-17,Wednesday,24,1,0,Sandwich,43
+2024-01-17,Wednesday,24,1,0,Banana Bread,31
+2024-01-17,Wednesday,24,1,0,Hot Chocolate,41
+2024-01-18,Thursday,20,0,0,Croissant,33
+2024-01-18,Thursday,20,0,0,Iced Coffee,31
+2024-01-18,Thursday,20,0,0,Sandwich,38
+2024-01-18,Thursday,20,0,0,Banana Bread,22
+2024-01-18,Thursday,20,0,0,Hot Chocolate,32
+2024-01-19,Friday,28,0,0,Croissant,27
+2024-01-19,Friday,28,0,0,Iced Coffee,56
+2024-01-19,Friday,28,0,0,Sandwich,35
+2024-01-19,Friday,28,0,0,Banana Bread,33
+2024-01-19,Friday,28,0,0,Hot Chocolate,5
+2024-01-20,Saturday,20,0,1,Croissant,86
+2024-01-20,Saturday,20,0,1,Iced Coffee,53
+2024-01-20,Saturday,20,0,1,Sandwich,54
+2024-01-20,Saturday,20,0,1,Banana Bread,66
+2024-01-20,Saturday,20,0,1,Hot Chocolate,60
+2024-01-21,Sunday,27,1,0,Croissant,57
+2024-01-21,Sunday,27,1,0,Iced Coffee,55
+2024-01-21,Sunday,27,1,0,Sandwich,47
+2024-01-21,Sunday,27,1,0,Banana Bread,38
+2024-01-21,Sunday,27,1,0,Hot Chocolate,16
+2024-01-22,Monday,25,0,0,Croissant,38
+2024-01-22,Monday,25,0,0,Iced Coffee,35
+2024-01-22,Monday,25,0,0,Sandwich,28
+2024-01-22,Monday,25,0,0,Banana Bread,29
+2024-01-22,Monday,25,0,0,Hot Chocolate,40
+2024-01-23,Tuesday,24,0,0,Croissant,26
+2024-01-23,Tuesday,24,0,0,Iced Coffee,26
+2024-01-23,Tuesday,24,0,0,Sandwich,37
+2024-01-23,Tuesday,24,0,0,Banana Bread,29
+2024-01-23,Tuesday,24,0,0,Hot Chocolate,30
+2024-01-24,Wednesday,23,0,0,Croissant,30
+2024-01-24,Wednesday,23,0,0,Iced Coffee,34
+2024-01-24,Wednesday,23,0,0,Sandwich,36
+2024-01-24,Wednesday,23,0,0,Banana Bread,35
+2024-01-24,Wednesday,23,0,0,Hot Chocolate,29
+2024-01-25,Thursday,23,0,0,Croissant,30
+2024-01-25,Thursday,23,0,0,Iced Coffee,22
+2024-01-25,Thursday,23,0,0,Sandwich,31
+2024-01-25,Thursday,23,0,0,Banana Bread,25
+2024-01-25,Thursday,23,0,0,Hot Chocolate,30
+2024-01-26,Friday,29,0,1,Croissant,44
+2024-01-26,Friday,29,0,1,Iced Coffee,69
+2024-01-26,Friday,29,0,1,Sandwich,48
+2024-01-26,Friday,29,0,1,Banana Bread,38
+2024-01-26,Friday,29,0,1,Hot Chocolate,7
+2024-01-27,Saturday,27,0,0,Croissant,67
+2024-01-27,Saturday,27,0,0,Iced Coffee,72
+2024-01-27,Saturday,27,0,0,Sandwich,49
+2024-01-27,Saturday,27,0,0,Banana Bread,46
+2024-01-27,Saturday,27,0,0,Hot Chocolate,9
+2024-01-28,Sunday,28,1,0,Croissant,62
+2024-01-28,Sunday,28,1,0,Iced Coffee,79
+2024-01-28,Sunday,28,1,0,Sandwich,40
+2024-01-28,Sunday,28,1,0,Banana Bread,39
+2024-01-28,Sunday,28,1,0,Hot Chocolate,15
+2024-01-29,Monday,21,0,0,Croissant,28
+2024-01-29,Monday,21,0,0,Iced Coffee,31
+2024-01-29,Monday,21,0,0,Sandwich,39
+2024-01-29,Monday,21,0,0,Banana Bread,31
+2024-01-29,Monday,21,0,0,Hot Chocolate,35
+2024-01-30,Tuesday,23,0,0,Croissant,34
+2024-01-30,Tuesday,23,0,0,Iced Coffee,37
+2024-01-30,Tuesday,23,0,0,Sandwich,47
+2024-01-30,Tuesday,23,0,0,Banana Bread,27
+2024-01-30,Tuesday,23,0,0,Hot Chocolate,29
+2024-01-31,Wednesday,23,0,0,Croissant,44
+2024-01-31,Wednesday,23,0,0,Iced Coffee,26
+2024-01-31,Wednesday,23,0,0,Sandwich,37
+2024-01-31,Wednesday,23,0,0,Banana Bread,31
+2024-01-31,Wednesday,23,0,0,Hot Chocolate,34
+2024-02-01,Thursday,24,0,0,Croissant,32
+2024-02-01,Thursday,24,0,0,Iced Coffee,28
+2024-02-01,Thursday,24,0,0,Sandwich,25
+2024-02-01,Thursday,24,0,0,Banana Bread,39
+2024-02-01,Thursday,24,0,0,Hot Chocolate,34
+2024-02-02,Friday,28,0,1,Croissant,37
+2024-02-02,Friday,28,0,1,Iced Coffee,73
+2024-02-02,Friday,28,0,1,Sandwich,41
+2024-02-02,Friday,28,0,1,Banana Bread,45
+2024-02-02,Friday,28,0,1,Hot Chocolate,7
+2024-02-03,Saturday,30,1,0,Croissant,54
+2024-02-03,Saturday,30,1,0,Iced Coffee,79
+2024-02-03,Saturday,30,1,0,Sandwich,46
+2024-02-03,Saturday,30,1,0,Banana Bread,43
+2024-02-03,Saturday,30,1,0,Hot Chocolate,17
+2024-02-04,Sunday,26,0,0,Croissant,64
+2024-02-04,Sunday,26,0,0,Iced Coffee,67
+2024-02-04,Sunday,26,0,0,Sandwich,35
+2024-02-04,Sunday,26,0,0,Banana Bread,36
+2024-02-04,Sunday,26,0,0,Hot Chocolate,8
+2024-02-05,Monday,31,0,0,Croissant,38
+2024-02-05,Monday,31,0,0,Iced Coffee,38
+2024-02-05,Monday,31,0,0,Sandwich,41
+2024-02-05,Monday,31,0,0,Banana Bread,39
+2024-02-05,Monday,31,0,0,Hot Chocolate,6
+2024-02-06,Tuesday,14,1,0,Croissant,35
+2024-02-06,Tuesday,14,1,0,Iced Coffee,11
+2024-02-06,Tuesday,14,1,0,Sandwich,32
+2024-02-06,Tuesday,14,1,0,Banana Bread,26
+2024-02-06,Tuesday,14,1,0,Hot Chocolate,41
+2024-02-07,Wednesday,28,1,0,Croissant,30
+2024-02-07,Wednesday,28,1,0,Iced Coffee,54
+2024-02-07,Wednesday,28,1,0,Sandwich,38
+2024-02-07,Wednesday,28,1,0,Banana Bread,29
+2024-02-07,Wednesday,28,1,0,Hot Chocolate,12
+2024-02-08,Thursday,25,0,0,Croissant,29
+2024-02-08,Thursday,25,0,0,Iced Coffee,34
+2024-02-08,Thursday,25,0,0,Sandwich,35
+2024-02-08,Thursday,25,0,0,Banana Bread,30
+2024-02-08,Thursday,25,0,0,Hot Chocolate,25
+2024-02-09,Friday,23,0,0,Croissant,42
+2024-02-09,Friday,23,0,0,Iced Coffee,30
+2024-02-09,Friday,23,0,0,Sandwich,36
+2024-02-09,Friday,23,0,0,Banana Bread,29
+2024-02-09,Friday,23,0,0,Hot Chocolate,30
+2024-02-10,Saturday,22,0,1,Croissant,101
+2024-02-10,Saturday,22,0,1,Iced Coffee,64
+2024-02-10,Saturday,22,0,1,Sandwich,57
+2024-02-10,Saturday,22,0,1,Banana Bread,74
+2024-02-10,Saturday,22,0,1,Hot Chocolate,56
+2024-02-11,Sunday,19,1,0,Croissant,56
+2024-02-11,Sunday,19,1,0,Iced Coffee,51
+2024-02-11,Sunday,19,1,0,Sandwich,53
+2024-02-11,Sunday,19,1,0,Banana Bread,43
+2024-02-11,Sunday,19,1,0,Hot Chocolate,59
+2024-02-12,Monday,21,0,0,Croissant,19
+2024-02-12,Monday,21,0,0,Iced Coffee,33
+2024-02-12,Monday,21,0,0,Sandwich,30
+2024-02-12,Monday,21,0,0,Banana Bread,27
+2024-02-12,Monday,21,0,0,Hot Chocolate,29
+2024-02-13,Tuesday,22,0,0,Croissant,30
+2024-02-13,Tuesday,22,0,0,Iced Coffee,26
+2024-02-13,Tuesday,22,0,0,Sandwich,41
+2024-02-13,Tuesday,22,0,0,Banana Bread,26
+2024-02-13,Tuesday,22,0,0,Hot Chocolate,26
+2024-02-14,Wednesday,28,0,0,Croissant,27
+2024-02-14,Wednesday,28,0,0,Iced Coffee,62
+2024-02-14,Wednesday,28,0,0,Sandwich,38
+2024-02-14,Wednesday,28,0,0,Banana Bread,31
+2024-02-14,Wednesday,28,0,0,Hot Chocolate,6
+2024-02-15,Thursday,26,0,0,Croissant,22
+2024-02-15,Thursday,26,0,0,Iced Coffee,48
+2024-02-15,Thursday,26,0,0,Sandwich,26
+2024-02-15,Thursday,26,0,0,Banana Bread,36
+2024-02-15,Thursday,26,0,0,Hot Chocolate,4
+2024-02-16,Friday,25,0,0,Croissant,21
+2024-02-16,Friday,25,0,0,Iced Coffee,26
+2024-02-16,Friday,25,0,0,Sandwich,44
+2024-02-16,Friday,25,0,0,Banana Bread,31
+2024-02-16,Friday,25,0,0,Hot Chocolate,29
+2024-02-17,Saturday,28,0,1,Croissant,79
+2024-02-17,Saturday,28,0,1,Iced Coffee,107
+2024-02-17,Saturday,28,0,1,Sandwich,63
+2024-02-17,Saturday,28,0,1,Banana Bread,61
+2024-02-17,Saturday,28,0,1,Hot Chocolate,13
+2024-02-18,Sunday,23,0,0,Croissant,52
+2024-02-18,Sunday,23,0,0,Iced Coffee,41
+2024-02-18,Sunday,23,0,0,Sandwich,52
+2024-02-18,Sunday,23,0,0,Banana Bread,42
+2024-02-18,Sunday,23,0,0,Hot Chocolate,46
+2024-02-19,Monday,19,0,0,Croissant,26
+2024-02-19,Monday,19,0,0,Iced Coffee,32
+2024-02-19,Monday,19,0,0,Sandwich,30
+2024-02-19,Monday,19,0,0,Banana Bread,25
+2024-02-19,Monday,19,0,0,Hot Chocolate,35
+2024-02-20,Tuesday,25,0,0,Croissant,33
+2024-02-20,Tuesday,25,0,0,Iced Coffee,35
+2024-02-20,Tuesday,25,0,0,Sandwich,26
+2024-02-20,Tuesday,25,0,0,Banana Bread,31
+2024-02-20,Tuesday,25,0,0,Hot Chocolate,21
+2024-02-21,Wednesday,24,0,0,Croissant,23
+2024-02-21,Wednesday,24,0,0,Iced Coffee,36
+2024-02-21,Wednesday,24,0,0,Sandwich,27
+2024-02-21,Wednesday,24,0,0,Banana Bread,29
+2024-02-21,Wednesday,24,0,0,Hot Chocolate,24
+2024-02-22,Thursday,23,0,0,Croissant,26
+2024-02-22,Thursday,23,0,0,Iced Coffee,28
+2024-02-22,Thursday,23,0,0,Sandwich,43
+2024-02-22,Thursday,23,0,0,Banana Bread,31
+2024-02-22,Thursday,23,0,0,Hot Chocolate,37
+2024-02-23,Friday,21,0,0,Croissant,25
+2024-02-23,Friday,21,0,0,Iced Coffee,38
+2024-02-23,Friday,21,0,0,Sandwich,46
+2024-02-23,Friday,21,0,0,Banana Bread,23
+2024-02-23,Friday,21,0,0,Hot Chocolate,30
+2024-02-24,Saturday,21,0,0,Croissant,68
+2024-02-24,Saturday,21,0,0,Iced Coffee,46
+2024-02-24,Saturday,21,0,0,Sandwich,34
+2024-02-24,Saturday,21,0,0,Banana Bread,34
+2024-02-24,Saturday,21,0,0,Hot Chocolate,51
+2024-02-25,Sunday,30,0,0,Croissant,73
+2024-02-25,Sunday,30,0,0,Iced Coffee,82
+2024-02-25,Sunday,30,0,0,Sandwich,49
+2024-02-25,Sunday,30,0,0,Banana Bread,46
+2024-02-25,Sunday,30,0,0,Hot Chocolate,5
+2024-02-26,Monday,17,0,0,Croissant,29
+2024-02-26,Monday,17,0,0,Iced Coffee,30
+2024-02-26,Monday,17,0,0,Sandwich,32
+2024-02-26,Monday,17,0,0,Banana Bread,26
+2024-02-26,Monday,17,0,0,Hot Chocolate,52
+2024-02-27,Tuesday,24,1,0,Croissant,28
+2024-02-27,Tuesday,24,1,0,Iced Coffee,31
+2024-02-27,Tuesday,24,1,0,Sandwich,44
+2024-02-27,Tuesday,24,1,0,Banana Bread,31
+2024-02-27,Tuesday,24,1,0,Hot Chocolate,45
+2024-02-28,Wednesday,25,1,0,Croissant,25
+2024-02-28,Wednesday,25,1,0,Iced Coffee,36
+2024-02-28,Wednesday,25,1,0,Sandwich,36
+2024-02-28,Wednesday,25,1,0,Banana Bread,38
+2024-02-28,Wednesday,25,1,0,Hot Chocolate,46
+2024-02-29,Thursday,34,0,0,Croissant,25
+2024-02-29,Thursday,34,0,0,Iced Coffee,53
+2024-02-29,Thursday,34,0,0,Sandwich,31
+2024-02-29,Thursday,34,0,0,Banana Bread,24
+2024-02-29,Thursday,34,0,0,Hot Chocolate,0
+2024-03-01,Friday,24,1,1,Croissant,41
+2024-03-01,Friday,24,1,1,Iced Coffee,35
+2024-03-01,Friday,24,1,1,Sandwich,33
+2024-03-01,Friday,24,1,1,Banana Bread,39
+2024-03-01,Friday,24,1,1,Hot Chocolate,63
+2024-03-02,Saturday,26,0,1,Croissant,75
+2024-03-02,Saturday,26,0,1,Iced Coffee,93
+2024-03-02,Saturday,26,0,1,Sandwich,52
+2024-03-02,Saturday,26,0,1,Banana Bread,46
+2024-03-02,Saturday,26,0,1,Hot Chocolate,14
+2024-03-03,Sunday,29,0,0,Croissant,83
+2024-03-03,Sunday,29,0,0,Iced Coffee,77
+2024-03-03,Sunday,29,0,0,Sandwich,50
+2024-03-03,Sunday,29,0,0,Banana Bread,39
+2024-03-03,Sunday,29,0,0,Hot Chocolate,11
+2024-03-04,Monday,28,0,0,Croissant,33
+2024-03-04,Monday,28,0,0,Iced Coffee,51
+2024-03-04,Monday,28,0,0,Sandwich,38
+2024-03-04,Monday,28,0,0,Banana Bread,26
+2024-03-04,Monday,28,0,0,Hot Chocolate,1
+2024-03-05,Tuesday,30,0,0,Croissant,23
+2024-03-05,Tuesday,30,0,0,Iced Coffee,68
+2024-03-05,Tuesday,30,0,0,Sandwich,39
+2024-03-05,Tuesday,30,0,0,Banana Bread,18
+2024-03-05,Tuesday,30,0,0,Hot Chocolate,2
+2024-03-06,Wednesday,19,0,0,Croissant,19
+2024-03-06,Wednesday,19,0,0,Iced Coffee,34
+2024-03-06,Wednesday,19,0,0,Sandwich,24
+2024-03-06,Wednesday,19,0,0,Banana Bread,27
+2024-03-06,Wednesday,19,0,0,Hot Chocolate,38
+2024-03-07,Thursday,21,1,0,Croissant,36
+2024-03-07,Thursday,21,1,0,Iced Coffee,32
+2024-03-07,Thursday,21,1,0,Sandwich,33
+2024-03-07,Thursday,21,1,0,Banana Bread,30
+2024-03-07,Thursday,21,1,0,Hot Chocolate,64
+2024-03-08,Friday,22,0,0,Croissant,31
+2024-03-08,Friday,22,0,0,Iced Coffee,25
+2024-03-08,Friday,22,0,0,Sandwich,40
+2024-03-08,Friday,22,0,0,Banana Bread,25
+2024-03-08,Friday,22,0,0,Hot Chocolate,34
+2024-03-09,Saturday,25,0,0,Croissant,59
+2024-03-09,Saturday,25,0,0,Iced Coffee,37
+2024-03-09,Saturday,25,0,0,Sandwich,53
+2024-03-09,Saturday,25,0,0,Banana Bread,51
+2024-03-09,Saturday,25,0,0,Hot Chocolate,42
+2024-03-10,Sunday,23,0,0,Croissant,55
+2024-03-10,Sunday,23,0,0,Iced Coffee,52
+2024-03-10,Sunday,23,0,0,Sandwich,49
+2024-03-10,Sunday,23,0,0,Banana Bread,60
+2024-03-10,Sunday,23,0,0,Hot Chocolate,46
+2024-03-11,Monday,21,0,0,Croissant,33
+2024-03-11,Monday,21,0,0,Iced Coffee,27
+2024-03-11,Monday,21,0,0,Sandwich,23
+2024-03-11,Monday,21,0,0,Banana Bread,21
+2024-03-11,Monday,21,0,0,Hot Chocolate,29
+2024-03-12,Tuesday,31,1,0,Croissant,28
+2024-03-12,Tuesday,31,1,0,Iced Coffee,48
+2024-03-12,Tuesday,31,1,0,Sandwich,42
+2024-03-12,Tuesday,31,1,0,Banana Bread,33
+2024-03-12,Tuesday,31,1,0,Hot Chocolate,12
+2024-03-13,Wednesday,21,0,0,Croissant,31
+2024-03-13,Wednesday,21,0,0,Iced Coffee,30
+2024-03-13,Wednesday,21,0,0,Sandwich,39
+2024-03-13,Wednesday,21,0,0,Banana Bread,29
+2024-03-13,Wednesday,21,0,0,Hot Chocolate,32
+2024-03-14,Thursday,23,0,0,Croissant,32
+2024-03-14,Thursday,23,0,0,Iced Coffee,24
+2024-03-14,Thursday,23,0,0,Sandwich,47
+2024-03-14,Thursday,23,0,0,Banana Bread,29
+2024-03-14,Thursday,23,0,0,Hot Chocolate,35
+2024-03-15,Friday,28,0,0,Croissant,34
+2024-03-15,Friday,28,0,0,Iced Coffee,60
+2024-03-15,Friday,28,0,0,Sandwich,38
+2024-03-15,Friday,28,0,0,Banana Bread,32
+2024-03-15,Friday,28,0,0,Hot Chocolate,8
+2024-03-16,Saturday,20,0,1,Croissant,76
+2024-03-16,Saturday,20,0,1,Iced Coffee,47
+2024-03-16,Saturday,20,0,1,Sandwich,71
+2024-03-16,Saturday,20,0,1,Banana Bread,48
+2024-03-16,Saturday,20,0,1,Hot Chocolate,68
+2024-03-17,Sunday,26,0,0,Croissant,50
+2024-03-17,Sunday,26,0,0,Iced Coffee,67
+2024-03-17,Sunday,26,0,0,Sandwich,31
+2024-03-17,Sunday,26,0,0,Banana Bread,42
+2024-03-17,Sunday,26,0,0,Hot Chocolate,16
+2024-03-18,Monday,28,0,0,Croissant,29
+2024-03-18,Monday,28,0,0,Iced Coffee,49
+2024-03-18,Monday,28,0,0,Sandwich,37
+2024-03-18,Monday,28,0,0,Banana Bread,28
+2024-03-18,Monday,28,0,0,Hot Chocolate,10
+2024-03-19,Tuesday,27,0,0,Croissant,44
+2024-03-19,Tuesday,27,0,0,Iced Coffee,60
+2024-03-19,Tuesday,27,0,0,Sandwich,40
+2024-03-19,Tuesday,27,0,0,Banana Bread,39
+2024-03-19,Tuesday,27,0,0,Hot Chocolate,8
+2024-03-20,Wednesday,26,0,0,Croissant,25
+2024-03-20,Wednesday,26,0,0,Iced Coffee,59
+2024-03-20,Wednesday,26,0,0,Sandwich,28
+2024-03-20,Wednesday,26,0,0,Banana Bread,30
+2024-03-20,Wednesday,26,0,0,Hot Chocolate,5
+2024-03-21,Thursday,22,0,0,Croissant,38
+2024-03-21,Thursday,22,0,0,Iced Coffee,23
+2024-03-21,Thursday,22,0,0,Sandwich,41
+2024-03-21,Thursday,22,0,0,Banana Bread,32
+2024-03-21,Thursday,22,0,0,Hot Chocolate,16
+2024-03-22,Friday,25,0,0,Croissant,27
+2024-03-22,Friday,25,0,0,Iced Coffee,22
+2024-03-22,Friday,25,0,0,Sandwich,34
+2024-03-22,Friday,25,0,0,Banana Bread,33
+2024-03-22,Friday,25,0,0,Hot Chocolate,27
+2024-03-23,Saturday,25,0,0,Croissant,66
+2024-03-23,Saturday,25,0,0,Iced Coffee,52
+2024-03-23,Saturday,25,0,0,Sandwich,45
+2024-03-23,Saturday,25,0,0,Banana Bread,33
+2024-03-23,Saturday,25,0,0,Hot Chocolate,46
+2024-03-24,Sunday,20,0,0,Croissant,72
+2024-03-24,Sunday,20,0,0,Iced Coffee,37
+2024-03-24,Sunday,20,0,0,Sandwich,41
+2024-03-24,Sunday,20,0,0,Banana Bread,42
+2024-03-24,Sunday,20,0,0,Hot Chocolate,39
+2024-03-25,Monday,21,0,0,Croissant,26
+2024-03-25,Monday,21,0,0,Iced Coffee,24
+2024-03-25,Monday,21,0,0,Sandwich,43
+2024-03-25,Monday,21,0,0,Banana Bread,30
+2024-03-25,Monday,21,0,0,Hot Chocolate,19
+2024-03-26,Tuesday,28,0,0,Croissant,25
+2024-03-26,Tuesday,28,0,0,Iced Coffee,56
+2024-03-26,Tuesday,28,0,0,Sandwich,36
+2024-03-26,Tuesday,28,0,0,Banana Bread,29
+2024-03-26,Tuesday,28,0,0,Hot Chocolate,1
+2024-03-27,Wednesday,28,0,0,Croissant,28
+2024-03-27,Wednesday,28,0,0,Iced Coffee,75
+2024-03-27,Wednesday,28,0,0,Sandwich,35
+2024-03-27,Wednesday,28,0,0,Banana Bread,27
+2024-03-27,Wednesday,28,0,0,Hot Chocolate,7
+2024-03-28,Thursday,26,0,0,Croissant,30
+2024-03-28,Thursday,26,0,0,Iced Coffee,77
+2024-03-28,Thursday,26,0,0,Sandwich,38
+2024-03-28,Thursday,26,0,0,Banana Bread,38
+2024-03-28,Thursday,26,0,0,Hot Chocolate,1
+2024-03-29,Friday,24,0,1,Croissant,37
+2024-03-29,Friday,24,0,1,Iced Coffee,57
+2024-03-29,Friday,24,0,1,Sandwich,36
+2024-03-29,Friday,24,0,1,Banana Bread,43
+2024-03-29,Friday,24,0,1,Hot Chocolate,37
+2024-03-30,Saturday,21,0,1,Croissant,79
+2024-03-30,Saturday,21,0,1,Iced Coffee,62
+2024-03-30,Saturday,21,0,1,Sandwich,57
+2024-03-30,Saturday,21,0,1,Banana Bread,46
+2024-03-30,Saturday,21,0,1,Hot Chocolate,58
+2024-03-31,Sunday,26,0,0,Croissant,69
+2024-03-31,Sunday,26,0,0,Iced Coffee,80
+2024-03-31,Sunday,26,0,0,Sandwich,39
+2024-03-31,Sunday,26,0,0,Banana Bread,48
+2024-03-31,Sunday,26,0,0,Hot Chocolate,12
+2024-04-01,Monday,18,0,0,Croissant,36
+2024-04-01,Monday,18,0,0,Iced Coffee,21
+2024-04-01,Monday,18,0,0,Sandwich,38
+2024-04-01,Monday,18,0,0,Banana Bread,40
+2024-04-01,Monday,18,0,0,Hot Chocolate,34
+2024-04-02,Tuesday,13,0,0,Croissant,25
+2024-04-02,Tuesday,13,0,0,Iced Coffee,15
+2024-04-02,Tuesday,13,0,0,Sandwich,42
+2024-04-02,Tuesday,13,0,0,Banana Bread,27
+2024-04-02,Tuesday,13,0,0,Hot Chocolate,53
+2024-04-03,Wednesday,25,0,0,Croissant,28
+2024-04-03,Wednesday,25,0,0,Iced Coffee,33
+2024-04-03,Wednesday,25,0,0,Sandwich,26
+2024-04-03,Wednesday,25,0,0,Banana Bread,31
+2024-04-03,Wednesday,25,0,0,Hot Chocolate,32
+2024-04-04,Thursday,10,0,0,Croissant,30
+2024-04-04,Thursday,10,0,0,Iced Coffee,15
+2024-04-04,Thursday,10,0,0,Sandwich,41
+2024-04-04,Thursday,10,0,0,Banana Bread,28
+2024-04-04,Thursday,10,0,0,Hot Chocolate,54
+2024-04-05,Friday,16,0,0,Croissant,28
+2024-04-05,Friday,16,0,0,Iced Coffee,33
+2024-04-05,Friday,16,0,0,Sandwich,43
+2024-04-05,Friday,16,0,0,Banana Bread,30
+2024-04-05,Friday,16,0,0,Hot Chocolate,33
+2024-04-06,Saturday,14,0,0,Croissant,76
+2024-04-06,Saturday,14,0,0,Iced Coffee,9
+2024-04-06,Saturday,14,0,0,Sandwich,54
+2024-04-06,Saturday,14,0,0,Banana Bread,37
+2024-04-06,Saturday,14,0,0,Hot Chocolate,69
+2024-04-07,Sunday,17,0,0,Croissant,43
+2024-04-07,Sunday,17,0,0,Iced Coffee,49
+2024-04-07,Sunday,17,0,0,Sandwich,54
+2024-04-07,Sunday,17,0,0,Banana Bread,54
+2024-04-07,Sunday,17,0,0,Hot Chocolate,79
+2024-04-08,Monday,11,0,0,Croissant,29
+2024-04-08,Monday,11,0,0,Iced Coffee,8
+2024-04-08,Monday,11,0,0,Sandwich,37
+2024-04-08,Monday,11,0,0,Banana Bread,38
+2024-04-08,Monday,11,0,0,Hot Chocolate,53
+2024-04-09,Tuesday,8,0,0,Croissant,33
+2024-04-09,Tuesday,8,0,0,Iced Coffee,11
+2024-04-09,Tuesday,8,0,0,Sandwich,36
+2024-04-09,Tuesday,8,0,0,Banana Bread,34
+2024-04-09,Tuesday,8,0,0,Hot Chocolate,53
+2024-04-10,Wednesday,15,0,0,Croissant,25
+2024-04-10,Wednesday,15,0,0,Iced Coffee,19
+2024-04-10,Wednesday,15,0,0,Sandwich,43
+2024-04-10,Wednesday,15,0,0,Banana Bread,29
+2024-04-10,Wednesday,15,0,0,Hot Chocolate,42
+2024-04-11,Thursday,10,0,0,Croissant,30
+2024-04-11,Thursday,10,0,0,Iced Coffee,14
+2024-04-11,Thursday,10,0,0,Sandwich,40
+2024-04-11,Thursday,10,0,0,Banana Bread,29
+2024-04-11,Thursday,10,0,0,Hot Chocolate,48
+2024-04-12,Friday,11,0,0,Croissant,24
+2024-04-12,Friday,11,0,0,Iced Coffee,6
+2024-04-12,Friday,11,0,0,Sandwich,29
+2024-04-12,Friday,11,0,0,Banana Bread,37
+2024-04-12,Friday,11,0,0,Hot Chocolate,44
+2024-04-13,Saturday,15,1,0,Croissant,75
+2024-04-13,Saturday,15,1,0,Iced Coffee,48
+2024-04-13,Saturday,15,1,0,Sandwich,40
+2024-04-13,Saturday,15,1,0,Banana Bread,39
+2024-04-13,Saturday,15,1,0,Hot Chocolate,78
+2024-04-14,Sunday,16,0,0,Croissant,76
+2024-04-14,Sunday,16,0,0,Iced Coffee,51
+2024-04-14,Sunday,16,0,0,Sandwich,59
+2024-04-14,Sunday,16,0,0,Banana Bread,44
+2024-04-14,Sunday,16,0,0,Hot Chocolate,74
+2024-04-15,Monday,17,0,0,Croissant,37
+2024-04-15,Monday,17,0,0,Iced Coffee,28
+2024-04-15,Monday,17,0,0,Sandwich,43
+2024-04-15,Monday,17,0,0,Banana Bread,31
+2024-04-15,Monday,17,0,0,Hot Chocolate,50
+2024-04-16,Tuesday,9,0,0,Croissant,19
+2024-04-16,Tuesday,9,0,0,Iced Coffee,16
+2024-04-16,Tuesday,9,0,0,Sandwich,46
+2024-04-16,Tuesday,9,0,0,Banana Bread,30
+2024-04-16,Tuesday,9,0,0,Hot Chocolate,48
+2024-04-17,Wednesday,11,0,0,Croissant,18
+2024-04-17,Wednesday,11,0,0,Iced Coffee,9
+2024-04-17,Wednesday,11,0,0,Sandwich,25
+2024-04-17,Wednesday,11,0,0,Banana Bread,26
+2024-04-17,Wednesday,11,0,0,Hot Chocolate,54
+2024-04-18,Thursday,17,0,0,Croissant,28
+2024-04-18,Thursday,17,0,0,Iced Coffee,44
+2024-04-18,Thursday,17,0,0,Sandwich,32
+2024-04-18,Thursday,17,0,0,Banana Bread,26
+2024-04-18,Thursday,17,0,0,Hot Chocolate,53
+2024-04-19,Friday,30,0,0,Croissant,19
+2024-04-19,Friday,30,0,0,Iced Coffee,62
+2024-04-19,Friday,30,0,0,Sandwich,27
+2024-04-19,Friday,30,0,0,Banana Bread,23
+2024-04-19,Friday,30,0,0,Hot Chocolate,8
+2024-04-20,Saturday,15,0,1,Croissant,105
+2024-04-20,Saturday,15,0,1,Iced Coffee,53
+2024-04-20,Saturday,15,0,1,Sandwich,50
+2024-04-20,Saturday,15,0,1,Banana Bread,59
+2024-04-20,Saturday,15,0,1,Hot Chocolate,60
+2024-04-21,Sunday,15,1,0,Croissant,64
+2024-04-21,Sunday,15,1,0,Iced Coffee,42
+2024-04-21,Sunday,15,1,0,Sandwich,47
+2024-04-21,Sunday,15,1,0,Banana Bread,57
+2024-04-21,Sunday,15,1,0,Hot Chocolate,55
+2024-04-22,Monday,13,0,0,Croissant,34
+2024-04-22,Monday,13,0,0,Iced Coffee,13
+2024-04-22,Monday,13,0,0,Sandwich,26
+2024-04-22,Monday,13,0,0,Banana Bread,34
+2024-04-22,Monday,13,0,0,Hot Chocolate,40
+2024-04-23,Tuesday,15,0,0,Croissant,36
+2024-04-23,Tuesday,15,0,0,Iced Coffee,37
+2024-04-23,Tuesday,15,0,0,Sandwich,46
+2024-04-23,Tuesday,15,0,0,Banana Bread,23
+2024-04-23,Tuesday,15,0,0,Hot Chocolate,40
+2024-04-24,Wednesday,17,1,0,Croissant,38
+2024-04-24,Wednesday,17,1,0,Iced Coffee,26
+2024-04-24,Wednesday,17,1,0,Sandwich,26
+2024-04-24,Wednesday,17,1,0,Banana Bread,40
+2024-04-24,Wednesday,17,1,0,Hot Chocolate,54
+2024-04-25,Thursday,8,1,0,Croissant,36
+2024-04-25,Thursday,8,1,0,Iced Coffee,6
+2024-04-25,Thursday,8,1,0,Sandwich,33
+2024-04-25,Thursday,8,1,0,Banana Bread,24
+2024-04-25,Thursday,8,1,0,Hot Chocolate,60
+2024-04-26,Friday,13,1,0,Croissant,29
+2024-04-26,Friday,13,1,0,Iced Coffee,4
+2024-04-26,Friday,13,1,0,Sandwich,49
+2024-04-26,Friday,13,1,0,Banana Bread,27
+2024-04-26,Friday,13,1,0,Hot Chocolate,41
+2024-04-27,Saturday,19,0,1,Croissant,75
+2024-04-27,Saturday,19,0,1,Iced Coffee,59
+2024-04-27,Saturday,19,0,1,Sandwich,49
+2024-04-27,Saturday,19,0,1,Banana Bread,54
+2024-04-27,Saturday,19,0,1,Hot Chocolate,61
+2024-04-28,Sunday,12,1,0,Croissant,67
+2024-04-28,Sunday,12,1,0,Iced Coffee,15
+2024-04-28,Sunday,12,1,0,Sandwich,30
+2024-04-28,Sunday,12,1,0,Banana Bread,40
+2024-04-28,Sunday,12,1,0,Hot Chocolate,79
+2024-04-29,Monday,15,0,0,Croissant,32
+2024-04-29,Monday,15,0,0,Iced Coffee,21
+2024-04-29,Monday,15,0,0,Sandwich,30
+2024-04-29,Monday,15,0,0,Banana Bread,35
+2024-04-29,Monday,15,0,0,Hot Chocolate,34
+2024-04-30,Tuesday,23,0,0,Croissant,23
+2024-04-30,Tuesday,23,0,0,Iced Coffee,42
+2024-04-30,Tuesday,23,0,0,Sandwich,47
+2024-04-30,Tuesday,23,0,0,Banana Bread,34
+2024-04-30,Tuesday,23,0,0,Hot Chocolate,23
+2024-05-01,Wednesday,17,0,0,Croissant,22
+2024-05-01,Wednesday,17,0,0,Iced Coffee,32
+2024-05-01,Wednesday,17,0,0,Sandwich,45
+2024-05-01,Wednesday,17,0,0,Banana Bread,29
+2024-05-01,Wednesday,17,0,0,Hot Chocolate,58
+2024-05-02,Thursday,6,0,0,Croissant,24
+2024-05-02,Thursday,6,0,0,Iced Coffee,13
+2024-05-02,Thursday,6,0,0,Sandwich,37
+2024-05-02,Thursday,6,0,0,Banana Bread,27
+2024-05-02,Thursday,6,0,0,Hot Chocolate,45
+2024-05-03,Friday,15,0,1,Croissant,31
+2024-05-03,Friday,15,0,1,Iced Coffee,40
+2024-05-03,Friday,15,0,1,Sandwich,45
+2024-05-03,Friday,15,0,1,Banana Bread,52
+2024-05-03,Friday,15,0,1,Hot Chocolate,63
+2024-05-04,Saturday,11,0,1,Croissant,102
+2024-05-04,Saturday,11,0,1,Iced Coffee,30
+2024-05-04,Saturday,11,0,1,Sandwich,59
+2024-05-04,Saturday,11,0,1,Banana Bread,68
+2024-05-04,Saturday,11,0,1,Hot Chocolate,90
+2024-05-05,Sunday,21,0,0,Croissant,54
+2024-05-05,Sunday,21,0,0,Iced Coffee,38
+2024-05-05,Sunday,21,0,0,Sandwich,52
+2024-05-05,Sunday,21,0,0,Banana Bread,51
+2024-05-05,Sunday,21,0,0,Hot Chocolate,42
+2024-05-06,Monday,22,0,0,Croissant,37
+2024-05-06,Monday,22,0,0,Iced Coffee,29
+2024-05-06,Monday,22,0,0,Sandwich,34
+2024-05-06,Monday,22,0,0,Banana Bread,24
+2024-05-06,Monday,22,0,0,Hot Chocolate,21
+2024-05-07,Tuesday,16,0,0,Croissant,27
+2024-05-07,Tuesday,16,0,0,Iced Coffee,29
+2024-05-07,Tuesday,16,0,0,Sandwich,38
+2024-05-07,Tuesday,16,0,0,Banana Bread,33
+2024-05-07,Tuesday,16,0,0,Hot Chocolate,50
+2024-05-08,Wednesday,23,0,0,Croissant,29
+2024-05-08,Wednesday,23,0,0,Iced Coffee,23
+2024-05-08,Wednesday,23,0,0,Sandwich,34
+2024-05-08,Wednesday,23,0,0,Banana Bread,26
+2024-05-08,Wednesday,23,0,0,Hot Chocolate,32
+2024-05-09,Thursday,19,0,0,Croissant,28
+2024-05-09,Thursday,19,0,0,Iced Coffee,29
+2024-05-09,Thursday,19,0,0,Sandwich,31
+2024-05-09,Thursday,19,0,0,Banana Bread,33
+2024-05-09,Thursday,19,0,0,Hot Chocolate,31
+2024-05-10,Friday,20,1,1,Croissant,52
+2024-05-10,Friday,20,1,1,Iced Coffee,28
+2024-05-10,Friday,20,1,1,Sandwich,44
+2024-05-10,Friday,20,1,1,Banana Bread,46
+2024-05-10,Friday,20,1,1,Hot Chocolate,73
+2024-05-11,Saturday,12,1,1,Croissant,97
+2024-05-11,Saturday,12,1,1,Iced Coffee,21
+2024-05-11,Saturday,12,1,1,Sandwich,61
+2024-05-11,Saturday,12,1,1,Banana Bread,59
+2024-05-11,Saturday,12,1,1,Hot Chocolate,81
+2024-05-12,Sunday,16,0,0,Croissant,66
+2024-05-12,Sunday,16,0,0,Iced Coffee,34
+2024-05-12,Sunday,16,0,0,Sandwich,52
+2024-05-12,Sunday,16,0,0,Banana Bread,41
+2024-05-12,Sunday,16,0,0,Hot Chocolate,73
+2024-05-13,Monday,18,1,0,Croissant,26
+2024-05-13,Monday,18,1,0,Iced Coffee,34
+2024-05-13,Monday,18,1,0,Sandwich,40
+2024-05-13,Monday,18,1,0,Banana Bread,44
+2024-05-13,Monday,18,1,0,Hot Chocolate,41
+2024-05-14,Tuesday,2,0,0,Croissant,26
+2024-05-14,Tuesday,2,0,0,Iced Coffee,8
+2024-05-14,Tuesday,2,0,0,Sandwich,42
+2024-05-14,Tuesday,2,0,0,Banana Bread,27
+2024-05-14,Tuesday,2,0,0,Hot Chocolate,53
+2024-05-15,Wednesday,10,0,0,Croissant,20
+2024-05-15,Wednesday,10,0,0,Iced Coffee,7
+2024-05-15,Wednesday,10,0,0,Sandwich,30
+2024-05-15,Wednesday,10,0,0,Banana Bread,26
+2024-05-15,Wednesday,10,0,0,Hot Chocolate,47
+2024-05-16,Thursday,21,0,0,Croissant,31
+2024-05-16,Thursday,21,0,0,Iced Coffee,39
+2024-05-16,Thursday,21,0,0,Sandwich,41
+2024-05-16,Thursday,21,0,0,Banana Bread,35
+2024-05-16,Thursday,21,0,0,Hot Chocolate,31
+2024-05-17,Friday,9,1,1,Croissant,47
+2024-05-17,Friday,9,1,1,Iced Coffee,16
+2024-05-17,Friday,9,1,1,Sandwich,41
+2024-05-17,Friday,9,1,1,Banana Bread,35
+2024-05-17,Friday,9,1,1,Hot Chocolate,45
+2024-05-18,Saturday,15,0,0,Croissant,59
+2024-05-18,Saturday,15,0,0,Iced Coffee,35
+2024-05-18,Saturday,15,0,0,Sandwich,27
+2024-05-18,Saturday,15,0,0,Banana Bread,26
+2024-05-18,Saturday,15,0,0,Hot Chocolate,78
+2024-05-19,Sunday,24,0,0,Croissant,68
+2024-05-19,Sunday,24,0,0,Iced Coffee,49
+2024-05-19,Sunday,24,0,0,Sandwich,39
+2024-05-19,Sunday,24,0,0,Banana Bread,55
+2024-05-19,Sunday,24,0,0,Hot Chocolate,49
+2024-05-20,Monday,15,1,0,Croissant,19
+2024-05-20,Monday,15,1,0,Iced Coffee,34
+2024-05-20,Monday,15,1,0,Sandwich,29
+2024-05-20,Monday,15,1,0,Banana Bread,26
+2024-05-20,Monday,15,1,0,Hot Chocolate,41
+2024-05-21,Tuesday,12,0,0,Croissant,26
+2024-05-21,Tuesday,12,0,0,Iced Coffee,15
+2024-05-21,Tuesday,12,0,0,Sandwich,33
+2024-05-21,Tuesday,12,0,0,Banana Bread,31
+2024-05-21,Tuesday,12,0,0,Hot Chocolate,50
+2024-05-22,Wednesday,15,0,0,Croissant,24
+2024-05-22,Wednesday,15,0,0,Iced Coffee,28
+2024-05-22,Wednesday,15,0,0,Sandwich,31
+2024-05-22,Wednesday,15,0,0,Banana Bread,38
+2024-05-22,Wednesday,15,0,0,Hot Chocolate,43
+2024-05-23,Thursday,17,0,0,Croissant,34
+2024-05-23,Thursday,17,0,0,Iced Coffee,36
+2024-05-23,Thursday,17,0,0,Sandwich,33
+2024-05-23,Thursday,17,0,0,Banana Bread,21
+2024-05-23,Thursday,17,0,0,Hot Chocolate,53
+2024-05-24,Friday,23,0,1,Croissant,38
+2024-05-24,Friday,23,0,1,Iced Coffee,42
+2024-05-24,Friday,23,0,1,Sandwich,32
+2024-05-24,Friday,23,0,1,Banana Bread,42
+2024-05-24,Friday,23,0,1,Hot Chocolate,41
+2024-05-25,Saturday,7,0,0,Croissant,41
+2024-05-25,Saturday,7,0,0,Iced Coffee,17
+2024-05-25,Saturday,7,0,0,Sandwich,37
+2024-05-25,Saturday,7,0,0,Banana Bread,47
+2024-05-25,Saturday,7,0,0,Hot Chocolate,79
+2024-05-26,Sunday,16,1,0,Croissant,43
+2024-05-26,Sunday,16,1,0,Iced Coffee,46
+2024-05-26,Sunday,16,1,0,Sandwich,46
+2024-05-26,Sunday,16,1,0,Banana Bread,40
+2024-05-26,Sunday,16,1,0,Hot Chocolate,83
+2024-05-27,Monday,12,0,0,Croissant,20
+2024-05-27,Monday,12,0,0,Iced Coffee,17
+2024-05-27,Monday,12,0,0,Sandwich,43
+2024-05-27,Monday,12,0,0,Banana Bread,23
+2024-05-27,Monday,12,0,0,Hot Chocolate,66
+2024-05-28,Tuesday,12,1,0,Croissant,30
+2024-05-28,Tuesday,12,1,0,Iced Coffee,7
+2024-05-28,Tuesday,12,1,0,Sandwich,30
+2024-05-28,Tuesday,12,1,0,Banana Bread,33
+2024-05-28,Tuesday,12,1,0,Hot Chocolate,43
+2024-05-29,Wednesday,18,0,0,Croissant,25
+2024-05-29,Wednesday,18,0,0,Iced Coffee,29
+2024-05-29,Wednesday,18,0,0,Sandwich,22
+2024-05-29,Wednesday,18,0,0,Banana Bread,22
+2024-05-29,Wednesday,18,0,0,Hot Chocolate,31
+2024-05-30,Thursday,18,0,0,Croissant,36
+2024-05-30,Thursday,18,0,0,Iced Coffee,28
+2024-05-30,Thursday,18,0,0,Sandwich,30
+2024-05-30,Thursday,18,0,0,Banana Bread,21
+2024-05-30,Thursday,18,0,0,Hot Chocolate,22
+2024-05-31,Friday,16,0,1,Croissant,39
+2024-05-31,Friday,16,0,1,Iced Coffee,33
+2024-05-31,Friday,16,0,1,Sandwich,63
+2024-05-31,Friday,16,0,1,Banana Bread,53
+2024-05-31,Friday,16,0,1,Hot Chocolate,79
+2024-06-01,Saturday,17,0,0,Croissant,64
+2024-06-01,Saturday,17,0,0,Iced Coffee,40
+2024-06-01,Saturday,17,0,0,Sandwich,20
+2024-06-01,Saturday,17,0,0,Banana Bread,33
+2024-06-01,Saturday,17,0,0,Hot Chocolate,62
+2024-06-02,Sunday,12,0,0,Croissant,67
+2024-06-02,Sunday,12,0,0,Iced Coffee,23
+2024-06-02,Sunday,12,0,0,Sandwich,40
+2024-06-02,Sunday,12,0,0,Banana Bread,55
+2024-06-02,Sunday,12,0,0,Hot Chocolate,83
+2024-06-03,Monday,20,0,0,Croissant,32
+2024-06-03,Monday,20,0,0,Iced Coffee,33
+2024-06-03,Monday,20,0,0,Sandwich,28
+2024-06-03,Monday,20,0,0,Banana Bread,15
+2024-06-03,Monday,20,0,0,Hot Chocolate,21
+2024-06-04,Tuesday,12,0,0,Croissant,29
+2024-06-04,Tuesday,12,0,0,Iced Coffee,12
+2024-06-04,Tuesday,12,0,0,Sandwich,39
+2024-06-04,Tuesday,12,0,0,Banana Bread,26
+2024-06-04,Tuesday,12,0,0,Hot Chocolate,54
+2024-06-05,Wednesday,14,0,0,Croissant,28
+2024-06-05,Wednesday,14,0,0,Iced Coffee,6
+2024-06-05,Wednesday,14,0,0,Sandwich,42
+2024-06-05,Wednesday,14,0,0,Banana Bread,33
+2024-06-05,Wednesday,14,0,0,Hot Chocolate,47
+2024-06-06,Thursday,19,0,0,Croissant,25
+2024-06-06,Thursday,19,0,0,Iced Coffee,36
+2024-06-06,Thursday,19,0,0,Sandwich,40
+2024-06-06,Thursday,19,0,0,Banana Bread,18
+2024-06-06,Thursday,19,0,0,Hot Chocolate,34
+2024-06-07,Friday,20,0,0,Croissant,37
+2024-06-07,Friday,20,0,0,Iced Coffee,32
+2024-06-07,Friday,20,0,0,Sandwich,40
+2024-06-07,Friday,20,0,0,Banana Bread,31
+2024-06-07,Friday,20,0,0,Hot Chocolate,28
+2024-06-08,Saturday,15,0,1,Croissant,68
+2024-06-08,Saturday,15,0,1,Iced Coffee,69
+2024-06-08,Saturday,15,0,1,Sandwich,52
+2024-06-08,Saturday,15,0,1,Banana Bread,59
+2024-06-08,Saturday,15,0,1,Hot Chocolate,88
+2024-06-09,Sunday,16,0,0,Croissant,77
+2024-06-09,Sunday,16,0,0,Iced Coffee,50
+2024-06-09,Sunday,16,0,0,Sandwich,38
+2024-06-09,Sunday,16,0,0,Banana Bread,60
+2024-06-09,Sunday,16,0,0,Hot Chocolate,76
+2024-06-10,Monday,14,0,0,Croissant,32
+2024-06-10,Monday,14,0,0,Iced Coffee,11
+2024-06-10,Monday,14,0,0,Sandwich,30
+2024-06-10,Monday,14,0,0,Banana Bread,26
+2024-06-10,Monday,14,0,0,Hot Chocolate,55
+2024-06-11,Tuesday,11,0,0,Croissant,37
+2024-06-11,Tuesday,11,0,0,Iced Coffee,16
+2024-06-11,Tuesday,11,0,0,Sandwich,29
+2024-06-11,Tuesday,11,0,0,Banana Bread,28
+2024-06-11,Tuesday,11,0,0,Hot Chocolate,41
+2024-06-12,Wednesday,23,0,0,Croissant,23
+2024-06-12,Wednesday,23,0,0,Iced Coffee,27
+2024-06-12,Wednesday,23,0,0,Sandwich,47
+2024-06-12,Wednesday,23,0,0,Banana Bread,25
+2024-06-12,Wednesday,23,0,0,Hot Chocolate,30
+2024-06-13,Thursday,19,0,0,Croissant,33
+2024-06-13,Thursday,19,0,0,Iced Coffee,32
+2024-06-13,Thursday,19,0,0,Sandwich,43
+2024-06-13,Thursday,19,0,0,Banana Bread,26
+2024-06-13,Thursday,19,0,0,Hot Chocolate,25
+2024-06-14,Friday,18,0,1,Croissant,24
+2024-06-14,Friday,18,0,1,Iced Coffee,44
+2024-06-14,Friday,18,0,1,Sandwich,40
+2024-06-14,Friday,18,0,1,Banana Bread,46
+2024-06-14,Friday,18,0,1,Hot Chocolate,25
+2024-06-15,Saturday,12,0,1,Croissant,67
+2024-06-15,Saturday,12,0,1,Iced Coffee,25
+2024-06-15,Saturday,12,0,1,Sandwich,46
+2024-06-15,Saturday,12,0,1,Banana Bread,62
+2024-06-15,Saturday,12,0,1,Hot Chocolate,103
+2024-06-16,Sunday,14,0,0,Croissant,58
+2024-06-16,Sunday,14,0,0,Iced Coffee,25
+2024-06-16,Sunday,14,0,0,Sandwich,47
+2024-06-16,Sunday,14,0,0,Banana Bread,53
+2024-06-16,Sunday,14,0,0,Hot Chocolate,56
+2024-06-17,Monday,11,1,0,Croissant,36
+2024-06-17,Monday,11,1,0,Iced Coffee,10
+2024-06-17,Monday,11,1,0,Sandwich,46
+2024-06-17,Monday,11,1,0,Banana Bread,27
+2024-06-17,Monday,11,1,0,Hot Chocolate,36
+2024-06-18,Tuesday,13,0,0,Croissant,31
+2024-06-18,Tuesday,13,0,0,Iced Coffee,10
+2024-06-18,Tuesday,13,0,0,Sandwich,36
+2024-06-18,Tuesday,13,0,0,Banana Bread,26
+2024-06-18,Tuesday,13,0,0,Hot Chocolate,52
+2024-06-19,Wednesday,11,1,0,Croissant,27
+2024-06-19,Wednesday,11,1,0,Iced Coffee,16
+2024-06-19,Wednesday,11,1,0,Sandwich,46
+2024-06-19,Wednesday,11,1,0,Banana Bread,26
+2024-06-19,Wednesday,11,1,0,Hot Chocolate,53
+2024-06-20,Thursday,15,0,0,Croissant,30
+2024-06-20,Thursday,15,0,0,Iced Coffee,33
+2024-06-20,Thursday,15,0,0,Sandwich,43
+2024-06-20,Thursday,15,0,0,Banana Bread,28
+2024-06-20,Thursday,15,0,0,Hot Chocolate,57
+2024-06-21,Friday,13,1,0,Croissant,33
+2024-06-21,Friday,13,1,0,Iced Coffee,14
+2024-06-21,Friday,13,1,0,Sandwich,32
+2024-06-21,Friday,13,1,0,Banana Bread,28
+2024-06-21,Friday,13,1,0,Hot Chocolate,55
+2024-06-22,Saturday,15,0,1,Croissant,81
+2024-06-22,Saturday,15,0,1,Iced Coffee,71
+2024-06-22,Saturday,15,0,1,Sandwich,53
+2024-06-22,Saturday,15,0,1,Banana Bread,43
+2024-06-22,Saturday,15,0,1,Hot Chocolate,67
+2024-06-23,Sunday,12,0,0,Croissant,63
+2024-06-23,Sunday,12,0,0,Iced Coffee,10
+2024-06-23,Sunday,12,0,0,Sandwich,47
+2024-06-23,Sunday,12,0,0,Banana Bread,45
+2024-06-23,Sunday,12,0,0,Hot Chocolate,76
+2024-06-24,Monday,14,0,0,Croissant,22
+2024-06-24,Monday,14,0,0,Iced Coffee,12
+2024-06-24,Monday,14,0,0,Sandwich,30
+2024-06-24,Monday,14,0,0,Banana Bread,28
+2024-06-24,Monday,14,0,0,Hot Chocolate,50
+2024-06-25,Tuesday,18,1,0,Croissant,24
+2024-06-25,Tuesday,18,1,0,Iced Coffee,15
+2024-06-25,Tuesday,18,1,0,Sandwich,42
+2024-06-25,Tuesday,18,1,0,Banana Bread,25
+2024-06-25,Tuesday,18,1,0,Hot Chocolate,56
+2024-06-26,Wednesday,14,0,0,Croissant,25
+2024-06-26,Wednesday,14,0,0,Iced Coffee,15
+2024-06-26,Wednesday,14,0,0,Sandwich,18
+2024-06-26,Wednesday,14,0,0,Banana Bread,31
+2024-06-26,Wednesday,14,0,0,Hot Chocolate,58
+2024-06-27,Thursday,14,1,0,Croissant,29
+2024-06-27,Thursday,14,1,0,Iced Coffee,11
+2024-06-27,Thursday,14,1,0,Sandwich,35
+2024-06-27,Thursday,14,1,0,Banana Bread,29
+2024-06-27,Thursday,14,1,0,Hot Chocolate,57
+2024-06-28,Friday,13,1,1,Croissant,49
+2024-06-28,Friday,13,1,1,Iced Coffee,14
+2024-06-28,Friday,13,1,1,Sandwich,44
+2024-06-28,Friday,13,1,1,Banana Bread,24
+2024-06-28,Friday,13,1,1,Hot Chocolate,72
+2024-06-29,Saturday,20,0,0,Croissant,54
+2024-06-29,Saturday,20,0,0,Iced Coffee,40
+2024-06-29,Saturday,20,0,0,Sandwich,42
+2024-06-29,Saturday,20,0,0,Banana Bread,59
+2024-06-29,Saturday,20,0,0,Hot Chocolate,30
+2024-06-30,Sunday,18,0,0,Croissant,74
+2024-06-30,Sunday,18,0,0,Iced Coffee,38
+2024-06-30,Sunday,18,0,0,Sandwich,44
+2024-06-30,Sunday,18,0,0,Banana Bread,62
+2024-06-30,Sunday,18,0,0,Hot Chocolate,37
+2024-07-01,Monday,17,0,0,Croissant,27
+2024-07-01,Monday,17,0,0,Iced Coffee,24
+2024-07-01,Monday,17,0,0,Sandwich,27
+2024-07-01,Monday,17,0,0,Banana Bread,22
+2024-07-01,Monday,17,0,0,Hot Chocolate,53
+2024-07-02,Tuesday,13,0,0,Croissant,32
+2024-07-02,Tuesday,13,0,0,Iced Coffee,10
+2024-07-02,Tuesday,13,0,0,Sandwich,44
+2024-07-02,Tuesday,13,0,0,Banana Bread,31
+2024-07-02,Tuesday,13,0,0,Hot Chocolate,47
+2024-07-03,Wednesday,15,1,0,Croissant,28
+2024-07-03,Wednesday,15,1,0,Iced Coffee,38
+2024-07-03,Wednesday,15,1,0,Sandwich,33
+2024-07-03,Wednesday,15,1,0,Banana Bread,34
+2024-07-03,Wednesday,15,1,0,Hot Chocolate,44
+2024-07-04,Thursday,15,0,0,Croissant,36
+2024-07-04,Thursday,15,0,0,Iced Coffee,30
+2024-07-04,Thursday,15,0,0,Sandwich,32
+2024-07-04,Thursday,15,0,0,Banana Bread,25
+2024-07-04,Thursday,15,0,0,Hot Chocolate,59
+2024-07-05,Friday,15,0,0,Croissant,22
+2024-07-05,Friday,15,0,0,Iced Coffee,22
+2024-07-05,Friday,15,0,0,Sandwich,37
+2024-07-05,Friday,15,0,0,Banana Bread,32
+2024-07-05,Friday,15,0,0,Hot Chocolate,58
+2024-07-06,Saturday,16,0,0,Croissant,85
+2024-07-06,Saturday,16,0,0,Iced Coffee,60
+2024-07-06,Saturday,16,0,0,Sandwich,50
+2024-07-06,Saturday,16,0,0,Banana Bread,46
+2024-07-06,Saturday,16,0,0,Hot Chocolate,80
+2024-07-07,Sunday,18,1,0,Croissant,76
+2024-07-07,Sunday,18,1,0,Iced Coffee,49
+2024-07-07,Sunday,18,1,0,Sandwich,45
+2024-07-07,Sunday,18,1,0,Banana Bread,48
+2024-07-07,Sunday,18,1,0,Hot Chocolate,97
+2024-07-08,Monday,15,0,0,Croissant,37
+2024-07-08,Monday,15,0,0,Iced Coffee,35
+2024-07-08,Monday,15,0,0,Sandwich,25
+2024-07-08,Monday,15,0,0,Banana Bread,32
+2024-07-08,Monday,15,0,0,Hot Chocolate,40
+2024-07-09,Tuesday,23,0,0,Croissant,29
+2024-07-09,Tuesday,23,0,0,Iced Coffee,25
+2024-07-09,Tuesday,23,0,0,Sandwich,36
+2024-07-09,Tuesday,23,0,0,Banana Bread,31
+2024-07-09,Tuesday,23,0,0,Hot Chocolate,31
+2024-07-10,Wednesday,11,0,0,Croissant,35
+2024-07-10,Wednesday,11,0,0,Iced Coffee,10
+2024-07-10,Wednesday,11,0,0,Sandwich,31
+2024-07-10,Wednesday,11,0,0,Banana Bread,33
+2024-07-10,Wednesday,11,0,0,Hot Chocolate,42
+2024-07-11,Thursday,6,0,0,Croissant,28
+2024-07-11,Thursday,6,0,0,Iced Coffee,16
+2024-07-11,Thursday,6,0,0,Sandwich,41
+2024-07-11,Thursday,6,0,0,Banana Bread,30
+2024-07-11,Thursday,6,0,0,Hot Chocolate,61
+2024-07-12,Friday,12,1,0,Croissant,28
+2024-07-12,Friday,12,1,0,Iced Coffee,11
+2024-07-12,Friday,12,1,0,Sandwich,32
+2024-07-12,Friday,12,1,0,Banana Bread,37
+2024-07-12,Friday,12,1,0,Hot Chocolate,47
+2024-07-13,Saturday,7,0,0,Croissant,67
+2024-07-13,Saturday,7,0,0,Iced Coffee,21
+2024-07-13,Saturday,7,0,0,Sandwich,40
+2024-07-13,Saturday,7,0,0,Banana Bread,47
+2024-07-13,Saturday,7,0,0,Hot Chocolate,73
+2024-07-14,Sunday,16,0,0,Croissant,51
+2024-07-14,Sunday,16,0,0,Iced Coffee,46
+2024-07-14,Sunday,16,0,0,Sandwich,54
+2024-07-14,Sunday,16,0,0,Banana Bread,52
+2024-07-14,Sunday,16,0,0,Hot Chocolate,105
+2024-07-15,Monday,9,0,0,Croissant,36
+2024-07-15,Monday,9,0,0,Iced Coffee,20
+2024-07-15,Monday,9,0,0,Sandwich,28
+2024-07-15,Monday,9,0,0,Banana Bread,29
+2024-07-15,Monday,9,0,0,Hot Chocolate,51
+2024-07-16,Tuesday,22,0,0,Croissant,28
+2024-07-16,Tuesday,22,0,0,Iced Coffee,34
+2024-07-16,Tuesday,22,0,0,Sandwich,41
+2024-07-16,Tuesday,22,0,0,Banana Bread,37
+2024-07-16,Tuesday,22,0,0,Hot Chocolate,30
+2024-07-17,Wednesday,19,0,0,Croissant,37
+2024-07-17,Wednesday,19,0,0,Iced Coffee,29
+2024-07-17,Wednesday,19,0,0,Sandwich,31
+2024-07-17,Wednesday,19,0,0,Banana Bread,31
+2024-07-17,Wednesday,19,0,0,Hot Chocolate,35
+2024-07-18,Thursday,13,0,0,Croissant,21
+2024-07-18,Thursday,13,0,0,Iced Coffee,11
+2024-07-18,Thursday,13,0,0,Sandwich,49
+2024-07-18,Thursday,13,0,0,Banana Bread,33
+2024-07-18,Thursday,13,0,0,Hot Chocolate,64
+2024-07-19,Friday,8,0,0,Croissant,29
+2024-07-19,Friday,8,0,0,Iced Coffee,14
+2024-07-19,Friday,8,0,0,Sandwich,29
+2024-07-19,Friday,8,0,0,Banana Bread,33
+2024-07-19,Friday,8,0,0,Hot Chocolate,52
+2024-07-20,Saturday,20,0,1,Croissant,94
+2024-07-20,Saturday,20,0,1,Iced Coffee,59
+2024-07-20,Saturday,20,0,1,Sandwich,62
+2024-07-20,Saturday,20,0,1,Banana Bread,67
+2024-07-20,Saturday,20,0,1,Hot Chocolate,54
+2024-07-21,Sunday,8,1,0,Croissant,62
+2024-07-21,Sunday,8,1,0,Iced Coffee,21
+2024-07-21,Sunday,8,1,0,Sandwich,49
+2024-07-21,Sunday,8,1,0,Banana Bread,43
+2024-07-21,Sunday,8,1,0,Hot Chocolate,71
+2024-07-22,Monday,12,0,0,Croissant,29
+2024-07-22,Monday,12,0,0,Iced Coffee,9
+2024-07-22,Monday,12,0,0,Sandwich,26
+2024-07-22,Monday,12,0,0,Banana Bread,23
+2024-07-22,Monday,12,0,0,Hot Chocolate,45
+2024-07-23,Tuesday,15,0,0,Croissant,32
+2024-07-23,Tuesday,15,0,0,Iced Coffee,25
+2024-07-23,Tuesday,15,0,0,Sandwich,36
+2024-07-23,Tuesday,15,0,0,Banana Bread,23
+2024-07-23,Tuesday,15,0,0,Hot Chocolate,56
+2024-07-24,Wednesday,15,0,0,Croissant,22
+2024-07-24,Wednesday,15,0,0,Iced Coffee,33
+2024-07-24,Wednesday,15,0,0,Sandwich,38
+2024-07-24,Wednesday,15,0,0,Banana Bread,21
+2024-07-24,Wednesday,15,0,0,Hot Chocolate,46
+2024-07-25,Thursday,13,0,0,Croissant,31
+2024-07-25,Thursday,13,0,0,Iced Coffee,6
+2024-07-25,Thursday,13,0,0,Sandwich,30
+2024-07-25,Thursday,13,0,0,Banana Bread,20
+2024-07-25,Thursday,13,0,0,Hot Chocolate,68
+2024-07-26,Friday,17,1,0,Croissant,32
+2024-07-26,Friday,17,1,0,Iced Coffee,37
+2024-07-26,Friday,17,1,0,Sandwich,33
+2024-07-26,Friday,17,1,0,Banana Bread,32
+2024-07-26,Friday,17,1,0,Hot Chocolate,40
+2024-07-27,Saturday,9,0,0,Croissant,46
+2024-07-27,Saturday,9,0,0,Iced Coffee,20
+2024-07-27,Saturday,9,0,0,Sandwich,51
+2024-07-27,Saturday,9,0,0,Banana Bread,28
+2024-07-27,Saturday,9,0,0,Hot Chocolate,81
+2024-07-28,Sunday,17,0,0,Croissant,48
+2024-07-28,Sunday,17,0,0,Iced Coffee,61
+2024-07-28,Sunday,17,0,0,Sandwich,43
+2024-07-28,Sunday,17,0,0,Banana Bread,48
+2024-07-28,Sunday,17,0,0,Hot Chocolate,77
+2024-07-29,Monday,16,0,0,Croissant,28
+2024-07-29,Monday,16,0,0,Iced Coffee,27
+2024-07-29,Monday,16,0,0,Sandwich,34
+2024-07-29,Monday,16,0,0,Banana Bread,29
+2024-07-29,Monday,16,0,0,Hot Chocolate,53
+2024-07-30,Tuesday,12,0,0,Croissant,23
+2024-07-30,Tuesday,12,0,0,Iced Coffee,14
+2024-07-30,Tuesday,12,0,0,Sandwich,32
+2024-07-30,Tuesday,12,0,0,Banana Bread,33
+2024-07-30,Tuesday,12,0,0,Hot Chocolate,40
+2024-07-31,Wednesday,19,0,0,Croissant,25
+2024-07-31,Wednesday,19,0,0,Iced Coffee,33
+2024-07-31,Wednesday,19,0,0,Sandwich,42
+2024-07-31,Wednesday,19,0,0,Banana Bread,33
+2024-07-31,Wednesday,19,0,0,Hot Chocolate,21
+2024-08-01,Thursday,15,0,0,Croissant,31
+2024-08-01,Thursday,15,0,0,Iced Coffee,27
+2024-08-01,Thursday,15,0,0,Sandwich,31
+2024-08-01,Thursday,15,0,0,Banana Bread,39
+2024-08-01,Thursday,15,0,0,Hot Chocolate,49
+2024-08-02,Friday,14,1,1,Croissant,36
+2024-08-02,Friday,14,1,1,Iced Coffee,15
+2024-08-02,Friday,14,1,1,Sandwich,42
+2024-08-02,Friday,14,1,1,Banana Bread,39
+2024-08-02,Friday,14,1,1,Hot Chocolate,68
+2024-08-03,Saturday,18,0,0,Croissant,70
+2024-08-03,Saturday,18,0,0,Iced Coffee,45
+2024-08-03,Saturday,18,0,0,Sandwich,44
+2024-08-03,Saturday,18,0,0,Banana Bread,38
+2024-08-03,Saturday,18,0,0,Hot Chocolate,43
+2024-08-04,Sunday,11,1,0,Croissant,51
+2024-08-04,Sunday,11,1,0,Iced Coffee,20
+2024-08-04,Sunday,11,1,0,Sandwich,45
+2024-08-04,Sunday,11,1,0,Banana Bread,41
+2024-08-04,Sunday,11,1,0,Hot Chocolate,73
+2024-08-05,Monday,17,1,0,Croissant,26
+2024-08-05,Monday,17,1,0,Iced Coffee,28
+2024-08-05,Monday,17,1,0,Sandwich,39
+2024-08-05,Monday,17,1,0,Banana Bread,28
+2024-08-05,Monday,17,1,0,Hot Chocolate,42
+2024-08-06,Tuesday,19,0,0,Croissant,33
+2024-08-06,Tuesday,19,0,0,Iced Coffee,19
+2024-08-06,Tuesday,19,0,0,Sandwich,43
+2024-08-06,Tuesday,19,0,0,Banana Bread,29
+2024-08-06,Tuesday,19,0,0,Hot Chocolate,28
+2024-08-07,Wednesday,7,0,0,Croissant,31
+2024-08-07,Wednesday,7,0,0,Iced Coffee,9
+2024-08-07,Wednesday,7,0,0,Sandwich,28
+2024-08-07,Wednesday,7,0,0,Banana Bread,22
+2024-08-07,Wednesday,7,0,0,Hot Chocolate,37
+2024-08-08,Thursday,13,0,0,Croissant,31
+2024-08-08,Thursday,13,0,0,Iced Coffee,8
+2024-08-08,Thursday,13,0,0,Sandwich,42
+2024-08-08,Thursday,13,0,0,Banana Bread,30
+2024-08-08,Thursday,13,0,0,Hot Chocolate,60
+2024-08-09,Friday,17,0,1,Croissant,41
+2024-08-09,Friday,17,0,1,Iced Coffee,45
+2024-08-09,Friday,17,0,1,Sandwich,32
+2024-08-09,Friday,17,0,1,Banana Bread,28
+2024-08-09,Friday,17,0,1,Hot Chocolate,69
+2024-08-10,Saturday,18,0,1,Croissant,93
+2024-08-10,Saturday,18,0,1,Iced Coffee,51
+2024-08-10,Saturday,18,0,1,Sandwich,40
+2024-08-10,Saturday,18,0,1,Banana Bread,75
+2024-08-10,Saturday,18,0,1,Hot Chocolate,42
+2024-08-11,Sunday,16,0,0,Croissant,42
+2024-08-11,Sunday,16,0,0,Iced Coffee,43
+2024-08-11,Sunday,16,0,0,Sandwich,36
+2024-08-11,Sunday,16,0,0,Banana Bread,52
+2024-08-11,Sunday,16,0,0,Hot Chocolate,98
+2024-08-12,Monday,8,0,0,Croissant,33
+2024-08-12,Monday,8,0,0,Iced Coffee,15
+2024-08-12,Monday,8,0,0,Sandwich,39
+2024-08-12,Monday,8,0,0,Banana Bread,22
+2024-08-12,Monday,8,0,0,Hot Chocolate,50
+2024-08-13,Tuesday,14,0,0,Croissant,27
+2024-08-13,Tuesday,14,0,0,Iced Coffee,10
+2024-08-13,Tuesday,14,0,0,Sandwich,39
+2024-08-13,Tuesday,14,0,0,Banana Bread,30
+2024-08-13,Tuesday,14,0,0,Hot Chocolate,50
+2024-08-14,Wednesday,6,0,0,Croissant,23
+2024-08-14,Wednesday,6,0,0,Iced Coffee,7
+2024-08-14,Wednesday,6,0,0,Sandwich,34
+2024-08-14,Wednesday,6,0,0,Banana Bread,36
+2024-08-14,Wednesday,6,0,0,Hot Chocolate,48
+2024-08-15,Thursday,14,0,0,Croissant,31
+2024-08-15,Thursday,14,0,0,Iced Coffee,7
+2024-08-15,Thursday,14,0,0,Sandwich,31
+2024-08-15,Thursday,14,0,0,Banana Bread,29
+2024-08-15,Thursday,14,0,0,Hot Chocolate,48
+2024-08-16,Friday,16,0,1,Croissant,31
+2024-08-16,Friday,16,0,1,Iced Coffee,39
+2024-08-16,Friday,16,0,1,Sandwich,30
+2024-08-16,Friday,16,0,1,Banana Bread,38
+2024-08-16,Friday,16,0,1,Hot Chocolate,87
+2024-08-17,Saturday,11,0,1,Croissant,71
+2024-08-17,Saturday,11,0,1,Iced Coffee,22
+2024-08-17,Saturday,11,0,1,Sandwich,64
+2024-08-17,Saturday,11,0,1,Banana Bread,62
+2024-08-17,Saturday,11,0,1,Hot Chocolate,88
+2024-08-18,Sunday,11,0,0,Croissant,54
+2024-08-18,Sunday,11,0,0,Iced Coffee,18
+2024-08-18,Sunday,11,0,0,Sandwich,33
+2024-08-18,Sunday,11,0,0,Banana Bread,54
+2024-08-18,Sunday,11,0,0,Hot Chocolate,77
+2024-08-19,Monday,17,1,0,Croissant,35
+2024-08-19,Monday,17,1,0,Iced Coffee,25
+2024-08-19,Monday,17,1,0,Sandwich,28
+2024-08-19,Monday,17,1,0,Banana Bread,35
+2024-08-19,Monday,17,1,0,Hot Chocolate,44
+2024-08-20,Tuesday,12,0,0,Croissant,24
+2024-08-20,Tuesday,12,0,0,Iced Coffee,11
+2024-08-20,Tuesday,12,0,0,Sandwich,42
+2024-08-20,Tuesday,12,0,0,Banana Bread,23
+2024-08-20,Tuesday,12,0,0,Hot Chocolate,52
+2024-08-21,Wednesday,11,1,0,Croissant,41
+2024-08-21,Wednesday,11,1,0,Iced Coffee,16
+2024-08-21,Wednesday,11,1,0,Sandwich,42
+2024-08-21,Wednesday,11,1,0,Banana Bread,26
+2024-08-21,Wednesday,11,1,0,Hot Chocolate,53
+2024-08-22,Thursday,14,0,0,Croissant,35
+2024-08-22,Thursday,14,0,0,Iced Coffee,16
+2024-08-22,Thursday,14,0,0,Sandwich,36
+2024-08-22,Thursday,14,0,0,Banana Bread,34
+2024-08-22,Thursday,14,0,0,Hot Chocolate,30
+2024-08-23,Friday,10,0,0,Croissant,20
+2024-08-23,Friday,10,0,0,Iced Coffee,16
+2024-08-23,Friday,10,0,0,Sandwich,35
+2024-08-23,Friday,10,0,0,Banana Bread,28
+2024-08-23,Friday,10,0,0,Hot Chocolate,47
+2024-08-24,Saturday,14,0,0,Croissant,63
+2024-08-24,Saturday,14,0,0,Iced Coffee,22
+2024-08-24,Saturday,14,0,0,Sandwich,34
+2024-08-24,Saturday,14,0,0,Banana Bread,30
+2024-08-24,Saturday,14,0,0,Hot Chocolate,91
+2024-08-25,Sunday,15,1,0,Croissant,63
+2024-08-25,Sunday,15,1,0,Iced Coffee,38
+2024-08-25,Sunday,15,1,0,Sandwich,39
+2024-08-25,Sunday,15,1,0,Banana Bread,46
+2024-08-25,Sunday,15,1,0,Hot Chocolate,68
+2024-08-26,Monday,14,0,0,Croissant,29
+2024-08-26,Monday,14,0,0,Iced Coffee,9
+2024-08-26,Monday,14,0,0,Sandwich,34
+2024-08-26,Monday,14,0,0,Banana Bread,28
+2024-08-26,Monday,14,0,0,Hot Chocolate,59
+2024-08-27,Tuesday,14,0,0,Croissant,28
+2024-08-27,Tuesday,14,0,0,Iced Coffee,6
+2024-08-27,Tuesday,14,0,0,Sandwich,34
+2024-08-27,Tuesday,14,0,0,Banana Bread,33
+2024-08-27,Tuesday,14,0,0,Hot Chocolate,55
+2024-08-28,Wednesday,12,0,0,Croissant,33
+2024-08-28,Wednesday,12,0,0,Iced Coffee,9
+2024-08-28,Wednesday,12,0,0,Sandwich,41
+2024-08-28,Wednesday,12,0,0,Banana Bread,21
+2024-08-28,Wednesday,12,0,0,Hot Chocolate,47
+2024-08-29,Thursday,12,0,0,Croissant,26
+2024-08-29,Thursday,12,0,0,Iced Coffee,4
+2024-08-29,Thursday,12,0,0,Sandwich,33
+2024-08-29,Thursday,12,0,0,Banana Bread,18
+2024-08-29,Thursday,12,0,0,Hot Chocolate,42
+2024-08-30,Friday,8,0,0,Croissant,33
+2024-08-30,Friday,8,0,0,Iced Coffee,9
+2024-08-30,Friday,8,0,0,Sandwich,33
+2024-08-30,Friday,8,0,0,Banana Bread,30
+2024-08-30,Friday,8,0,0,Hot Chocolate,45
+2024-08-31,Saturday,20,1,1,Croissant,67
+2024-08-31,Saturday,20,1,1,Iced Coffee,54
+2024-08-31,Saturday,20,1,1,Sandwich,63
+2024-08-31,Saturday,20,1,1,Banana Bread,46
+2024-08-31,Saturday,20,1,1,Hot Chocolate,82
+2024-09-01,Sunday,17,0,0,Croissant,72
+2024-09-01,Sunday,17,0,0,Iced Coffee,55
+2024-09-01,Sunday,17,0,0,Sandwich,43
+2024-09-01,Sunday,17,0,0,Banana Bread,35
+2024-09-01,Sunday,17,0,0,Hot Chocolate,75
+2024-09-02,Monday,16,0,0,Croissant,38
+2024-09-02,Monday,16,0,0,Iced Coffee,30
+2024-09-02,Monday,16,0,0,Sandwich,21
+2024-09-02,Monday,16,0,0,Banana Bread,33
+2024-09-02,Monday,16,0,0,Hot Chocolate,47
+2024-09-03,Tuesday,14,0,0,Croissant,33
+2024-09-03,Tuesday,14,0,0,Iced Coffee,17
+2024-09-03,Tuesday,14,0,0,Sandwich,39
+2024-09-03,Tuesday,14,0,0,Banana Bread,28
+2024-09-03,Tuesday,14,0,0,Hot Chocolate,46
+2024-09-04,Wednesday,11,0,0,Croissant,37
+2024-09-04,Wednesday,11,0,0,Iced Coffee,20
+2024-09-04,Wednesday,11,0,0,Sandwich,36
+2024-09-04,Wednesday,11,0,0,Banana Bread,41
+2024-09-04,Wednesday,11,0,0,Hot Chocolate,46
+2024-09-05,Thursday,11,1,0,Croissant,26
+2024-09-05,Thursday,11,1,0,Iced Coffee,6
+2024-09-05,Thursday,11,1,0,Sandwich,43
+2024-09-05,Thursday,11,1,0,Banana Bread,30
+2024-09-05,Thursday,11,1,0,Hot Chocolate,32
+2024-09-06,Friday,9,0,1,Croissant,41
+2024-09-06,Friday,9,0,1,Iced Coffee,14
+2024-09-06,Friday,9,0,1,Sandwich,44
+2024-09-06,Friday,9,0,1,Banana Bread,41
+2024-09-06,Friday,9,0,1,Hot Chocolate,40
+2024-09-07,Saturday,11,0,0,Croissant,54
+2024-09-07,Saturday,11,0,0,Iced Coffee,23
+2024-09-07,Saturday,11,0,0,Sandwich,57
+2024-09-07,Saturday,11,0,0,Banana Bread,45
+2024-09-07,Saturday,11,0,0,Hot Chocolate,68
+2024-09-08,Sunday,13,0,0,Croissant,57
+2024-09-08,Sunday,13,0,0,Iced Coffee,14
+2024-09-08,Sunday,13,0,0,Sandwich,58
+2024-09-08,Sunday,13,0,0,Banana Bread,47
+2024-09-08,Sunday,13,0,0,Hot Chocolate,81
+2024-09-09,Monday,14,1,0,Croissant,35
+2024-09-09,Monday,14,1,0,Iced Coffee,14
+2024-09-09,Monday,14,1,0,Sandwich,32
+2024-09-09,Monday,14,1,0,Banana Bread,42
+2024-09-09,Monday,14,1,0,Hot Chocolate,34
+2024-09-10,Tuesday,20,0,0,Croissant,31
+2024-09-10,Tuesday,20,0,0,Iced Coffee,36
+2024-09-10,Tuesday,20,0,0,Sandwich,30
+2024-09-10,Tuesday,20,0,0,Banana Bread,27
+2024-09-10,Tuesday,20,0,0,Hot Chocolate,26
+2024-09-11,Wednesday,21,0,0,Croissant,30
+2024-09-11,Wednesday,21,0,0,Iced Coffee,44
+2024-09-11,Wednesday,21,0,0,Sandwich,35
+2024-09-11,Wednesday,21,0,0,Banana Bread,17
+2024-09-11,Wednesday,21,0,0,Hot Chocolate,26
+2024-09-12,Thursday,17,1,0,Croissant,26
+2024-09-12,Thursday,17,1,0,Iced Coffee,34
+2024-09-12,Thursday,17,1,0,Sandwich,34
+2024-09-12,Thursday,17,1,0,Banana Bread,32
+2024-09-12,Thursday,17,1,0,Hot Chocolate,40
+2024-09-13,Friday,11,0,0,Croissant,33
+2024-09-13,Friday,11,0,0,Iced Coffee,8
+2024-09-13,Friday,11,0,0,Sandwich,43
+2024-09-13,Friday,11,0,0,Banana Bread,36
+2024-09-13,Friday,11,0,0,Hot Chocolate,57
+2024-09-14,Saturday,9,0,0,Croissant,76
+2024-09-14,Saturday,9,0,0,Iced Coffee,20
+2024-09-14,Saturday,9,0,0,Sandwich,35
+2024-09-14,Saturday,9,0,0,Banana Bread,46
+2024-09-14,Saturday,9,0,0,Hot Chocolate,81
+2024-09-15,Sunday,9,1,0,Croissant,53
+2024-09-15,Sunday,9,1,0,Iced Coffee,21
+2024-09-15,Sunday,9,1,0,Sandwich,64
+2024-09-15,Sunday,9,1,0,Banana Bread,41
+2024-09-15,Sunday,9,1,0,Hot Chocolate,73
+2024-09-16,Monday,17,0,0,Croissant,27
+2024-09-16,Monday,17,0,0,Iced Coffee,32
+2024-09-16,Monday,17,0,0,Sandwich,41
+2024-09-16,Monday,17,0,0,Banana Bread,35
+2024-09-16,Monday,17,0,0,Hot Chocolate,71
+2024-09-17,Tuesday,12,0,0,Croissant,19
+2024-09-17,Tuesday,12,0,0,Iced Coffee,12
+2024-09-17,Tuesday,12,0,0,Sandwich,37
+2024-09-17,Tuesday,12,0,0,Banana Bread,38
+2024-09-17,Tuesday,12,0,0,Hot Chocolate,45
+2024-09-18,Wednesday,13,0,0,Croissant,20
+2024-09-18,Wednesday,13,0,0,Iced Coffee,10
+2024-09-18,Wednesday,13,0,0,Sandwich,29
+2024-09-18,Wednesday,13,0,0,Banana Bread,31
+2024-09-18,Wednesday,13,0,0,Hot Chocolate,43
+2024-09-19,Thursday,15,0,0,Croissant,23
+2024-09-19,Thursday,15,0,0,Iced Coffee,23
+2024-09-19,Thursday,15,0,0,Sandwich,33
+2024-09-19,Thursday,15,0,0,Banana Bread,39
+2024-09-19,Thursday,15,0,0,Hot Chocolate,47
+2024-09-20,Friday,11,0,1,Croissant,34
+2024-09-20,Friday,11,0,1,Iced Coffee,24
+2024-09-20,Friday,11,0,1,Sandwich,37
+2024-09-20,Friday,11,0,1,Banana Bread,46
+2024-09-20,Friday,11,0,1,Hot Chocolate,58
+2024-09-21,Saturday,16,0,0,Croissant,56
+2024-09-21,Saturday,16,0,0,Iced Coffee,50
+2024-09-21,Saturday,16,0,0,Sandwich,42
+2024-09-21,Saturday,16,0,0,Banana Bread,41
+2024-09-21,Saturday,16,0,0,Hot Chocolate,88
+2024-09-22,Sunday,14,0,0,Croissant,77
+2024-09-22,Sunday,14,0,0,Iced Coffee,15
+2024-09-22,Sunday,14,0,0,Sandwich,48
+2024-09-22,Sunday,14,0,0,Banana Bread,41
+2024-09-22,Sunday,14,0,0,Hot Chocolate,59
+2024-09-23,Monday,17,0,0,Croissant,34
+2024-09-23,Monday,17,0,0,Iced Coffee,31
+2024-09-23,Monday,17,0,0,Sandwich,34
+2024-09-23,Monday,17,0,0,Banana Bread,30
+2024-09-23,Monday,17,0,0,Hot Chocolate,60
+2024-09-24,Tuesday,11,0,0,Croissant,25
+2024-09-24,Tuesday,11,0,0,Iced Coffee,18
+2024-09-24,Tuesday,11,0,0,Sandwich,39
+2024-09-24,Tuesday,11,0,0,Banana Bread,36
+2024-09-24,Tuesday,11,0,0,Hot Chocolate,48
+2024-09-25,Wednesday,8,0,0,Croissant,33
+2024-09-25,Wednesday,8,0,0,Iced Coffee,6
+2024-09-25,Wednesday,8,0,0,Sandwich,45
+2024-09-25,Wednesday,8,0,0,Banana Bread,26
+2024-09-25,Wednesday,8,0,0,Hot Chocolate,56
+2024-09-26,Thursday,17,0,0,Croissant,23
+2024-09-26,Thursday,17,0,0,Iced Coffee,39
+2024-09-26,Thursday,17,0,0,Sandwich,36
+2024-09-26,Thursday,17,0,0,Banana Bread,34
+2024-09-26,Thursday,17,0,0,Hot Chocolate,51
+2024-09-27,Friday,11,0,1,Croissant,50
+2024-09-27,Friday,11,0,1,Iced Coffee,13
+2024-09-27,Friday,11,0,1,Sandwich,54
+2024-09-27,Friday,11,0,1,Banana Bread,55
+2024-09-27,Friday,11,0,1,Hot Chocolate,67
+2024-09-28,Saturday,7,1,0,Croissant,62
+2024-09-28,Saturday,7,1,0,Iced Coffee,15
+2024-09-28,Saturday,7,1,0,Sandwich,41
+2024-09-28,Saturday,7,1,0,Banana Bread,39
+2024-09-28,Saturday,7,1,0,Hot Chocolate,75
+2024-09-29,Sunday,17,0,0,Croissant,29
+2024-09-29,Sunday,17,0,0,Iced Coffee,41
+2024-09-29,Sunday,17,0,0,Sandwich,44
+2024-09-29,Sunday,17,0,0,Banana Bread,45
+2024-09-29,Sunday,17,0,0,Hot Chocolate,70
+2024-09-30,Monday,8,0,0,Croissant,32
+2024-09-30,Monday,8,0,0,Iced Coffee,18
+2024-09-30,Monday,8,0,0,Sandwich,38
+2024-09-30,Monday,8,0,0,Banana Bread,29
+2024-09-30,Monday,8,0,0,Hot Chocolate,52
+2024-10-01,Tuesday,12,0,0,Croissant,29
+2024-10-01,Tuesday,12,0,0,Iced Coffee,7
+2024-10-01,Tuesday,12,0,0,Sandwich,33
+2024-10-01,Tuesday,12,0,0,Banana Bread,30
+2024-10-01,Tuesday,12,0,0,Hot Chocolate,48
+2024-10-02,Wednesday,15,1,0,Croissant,29
+2024-10-02,Wednesday,15,1,0,Iced Coffee,31
+2024-10-02,Wednesday,15,1,0,Sandwich,34
+2024-10-02,Wednesday,15,1,0,Banana Bread,30
+2024-10-02,Wednesday,15,1,0,Hot Chocolate,70
+2024-10-03,Thursday,19,0,0,Croissant,24
+2024-10-03,Thursday,19,0,0,Iced Coffee,26
+2024-10-03,Thursday,19,0,0,Sandwich,34
+2024-10-03,Thursday,19,0,0,Banana Bread,19
+2024-10-03,Thursday,19,0,0,Hot Chocolate,33
+2024-10-04,Friday,12,0,0,Croissant,41
+2024-10-04,Friday,12,0,0,Iced Coffee,13
+2024-10-04,Friday,12,0,0,Sandwich,38
+2024-10-04,Friday,12,0,0,Banana Bread,27
+2024-10-04,Friday,12,0,0,Hot Chocolate,35
+2024-10-05,Saturday,12,0,1,Croissant,97
+2024-10-05,Saturday,12,0,1,Iced Coffee,24
+2024-10-05,Saturday,12,0,1,Sandwich,47
+2024-10-05,Saturday,12,0,1,Banana Bread,59
+2024-10-05,Saturday,12,0,1,Hot Chocolate,72
+2024-10-06,Sunday,24,0,0,Croissant,60
+2024-10-06,Sunday,24,0,0,Iced Coffee,28
+2024-10-06,Sunday,24,0,0,Sandwich,54
+2024-10-06,Sunday,24,0,0,Banana Bread,30
+2024-10-06,Sunday,24,0,0,Hot Chocolate,51
+2024-10-07,Monday,16,0,0,Croissant,22
+2024-10-07,Monday,16,0,0,Iced Coffee,34
+2024-10-07,Monday,16,0,0,Sandwich,48
+2024-10-07,Monday,16,0,0,Banana Bread,33
+2024-10-07,Monday,16,0,0,Hot Chocolate,70
+2024-10-08,Tuesday,12,0,0,Croissant,32
+2024-10-08,Tuesday,12,0,0,Iced Coffee,3
+2024-10-08,Tuesday,12,0,0,Sandwich,36
+2024-10-08,Tuesday,12,0,0,Banana Bread,31
+2024-10-08,Tuesday,12,0,0,Hot Chocolate,43
+2024-10-09,Wednesday,15,0,0,Croissant,25
+2024-10-09,Wednesday,15,0,0,Iced Coffee,32
+2024-10-09,Wednesday,15,0,0,Sandwich,50
+2024-10-09,Wednesday,15,0,0,Banana Bread,17
+2024-10-09,Wednesday,15,0,0,Hot Chocolate,54
+2024-10-10,Thursday,14,0,0,Croissant,34
+2024-10-10,Thursday,14,0,0,Iced Coffee,17
+2024-10-10,Thursday,14,0,0,Sandwich,33
+2024-10-10,Thursday,14,0,0,Banana Bread,32
+2024-10-10,Thursday,14,0,0,Hot Chocolate,42
+2024-10-11,Friday,16,0,1,Croissant,35
+2024-10-11,Friday,16,0,1,Iced Coffee,22
+2024-10-11,Friday,16,0,1,Sandwich,59
+2024-10-11,Friday,16,0,1,Banana Bread,35
+2024-10-11,Friday,16,0,1,Hot Chocolate,65
+2024-10-12,Saturday,13,0,0,Croissant,50
+2024-10-12,Saturday,13,0,0,Iced Coffee,21
+2024-10-12,Saturday,13,0,0,Sandwich,58
+2024-10-12,Saturday,13,0,0,Banana Bread,52
+2024-10-12,Saturday,13,0,0,Hot Chocolate,80
+2024-10-13,Sunday,16,0,0,Croissant,58
+2024-10-13,Sunday,16,0,0,Iced Coffee,46
+2024-10-13,Sunday,16,0,0,Sandwich,42
+2024-10-13,Sunday,16,0,0,Banana Bread,50
+2024-10-13,Sunday,16,0,0,Hot Chocolate,88
+2024-10-14,Monday,23,0,0,Croissant,31
+2024-10-14,Monday,23,0,0,Iced Coffee,23
+2024-10-14,Monday,23,0,0,Sandwich,40
+2024-10-14,Monday,23,0,0,Banana Bread,28
+2024-10-14,Monday,23,0,0,Hot Chocolate,34
+2024-10-15,Tuesday,19,0,0,Croissant,33
+2024-10-15,Tuesday,19,0,0,Iced Coffee,27
+2024-10-15,Tuesday,19,0,0,Sandwich,45
+2024-10-15,Tuesday,19,0,0,Banana Bread,20
+2024-10-15,Tuesday,19,0,0,Hot Chocolate,24
+2024-10-16,Wednesday,13,0,0,Croissant,32
+2024-10-16,Wednesday,13,0,0,Iced Coffee,6
+2024-10-16,Wednesday,13,0,0,Sandwich,32
+2024-10-16,Wednesday,13,0,0,Banana Bread,34
+2024-10-16,Wednesday,13,0,0,Hot Chocolate,40
+2024-10-17,Thursday,7,0,0,Croissant,24
+2024-10-17,Thursday,7,0,0,Iced Coffee,9
+2024-10-17,Thursday,7,0,0,Sandwich,36
+2024-10-17,Thursday,7,0,0,Banana Bread,25
+2024-10-17,Thursday,7,0,0,Hot Chocolate,55
+2024-10-18,Friday,13,0,1,Croissant,42
+2024-10-18,Friday,13,0,1,Iced Coffee,12
+2024-10-18,Friday,13,0,1,Sandwich,63
+2024-10-18,Friday,13,0,1,Banana Bread,35
+2024-10-18,Friday,13,0,1,Hot Chocolate,69
+2024-10-19,Saturday,14,0,0,Croissant,56
+2024-10-19,Saturday,14,0,0,Iced Coffee,22
+2024-10-19,Saturday,14,0,0,Sandwich,53
+2024-10-19,Saturday,14,0,0,Banana Bread,43
+2024-10-19,Saturday,14,0,0,Hot Chocolate,69
+2024-10-20,Sunday,18,0,0,Croissant,76
+2024-10-20,Sunday,18,0,0,Iced Coffee,41
+2024-10-20,Sunday,18,0,0,Sandwich,57
+2024-10-20,Sunday,18,0,0,Banana Bread,53
+2024-10-20,Sunday,18,0,0,Hot Chocolate,38
+2024-10-21,Monday,9,1,0,Croissant,31
+2024-10-21,Monday,9,1,0,Iced Coffee,13
+2024-10-21,Monday,9,1,0,Sandwich,50
+2024-10-21,Monday,9,1,0,Banana Bread,30
+2024-10-21,Monday,9,1,0,Hot Chocolate,55
+2024-10-22,Tuesday,19,0,0,Croissant,31
+2024-10-22,Tuesday,19,0,0,Iced Coffee,38
+2024-10-22,Tuesday,19,0,0,Sandwich,38
+2024-10-22,Tuesday,19,0,0,Banana Bread,25
+2024-10-22,Tuesday,19,0,0,Hot Chocolate,26
+2024-10-23,Wednesday,17,0,0,Croissant,36
+2024-10-23,Wednesday,17,0,0,Iced Coffee,23
+2024-10-23,Wednesday,17,0,0,Sandwich,34
+2024-10-23,Wednesday,17,0,0,Banana Bread,28
+2024-10-23,Wednesday,17,0,0,Hot Chocolate,48
+2024-10-24,Thursday,24,0,0,Croissant,15
+2024-10-24,Thursday,24,0,0,Iced Coffee,34
+2024-10-24,Thursday,24,0,0,Sandwich,38
+2024-10-24,Thursday,24,0,0,Banana Bread,30
+2024-10-24,Thursday,24,0,0,Hot Chocolate,22
+2024-10-25,Friday,13,0,0,Croissant,42
+2024-10-25,Friday,13,0,0,Iced Coffee,12
+2024-10-25,Friday,13,0,0,Sandwich,30
+2024-10-25,Friday,13,0,0,Banana Bread,34
+2024-10-25,Friday,13,0,0,Hot Chocolate,48
+2024-10-26,Saturday,11,1,0,Croissant,83
+2024-10-26,Saturday,11,1,0,Iced Coffee,12
+2024-10-26,Saturday,11,1,0,Sandwich,44
+2024-10-26,Saturday,11,1,0,Banana Bread,45
+2024-10-26,Saturday,11,1,0,Hot Chocolate,72
+2024-10-27,Sunday,16,0,0,Croissant,70
+2024-10-27,Sunday,16,0,0,Iced Coffee,42
+2024-10-27,Sunday,16,0,0,Sandwich,50
+2024-10-27,Sunday,16,0,0,Banana Bread,33
+2024-10-27,Sunday,16,0,0,Hot Chocolate,61
+2024-10-28,Monday,16,0,0,Croissant,33
+2024-10-28,Monday,16,0,0,Iced Coffee,26
+2024-10-28,Monday,16,0,0,Sandwich,48
+2024-10-28,Monday,16,0,0,Banana Bread,30
+2024-10-28,Monday,16,0,0,Hot Chocolate,50
+2024-10-29,Tuesday,13,0,0,Croissant,37
+2024-10-29,Tuesday,13,0,0,Iced Coffee,13
+2024-10-29,Tuesday,13,0,0,Sandwich,27
+2024-10-29,Tuesday,13,0,0,Banana Bread,22
+2024-10-29,Tuesday,13,0,0,Hot Chocolate,45
+2024-10-30,Wednesday,11,1,0,Croissant,31
+2024-10-30,Wednesday,11,1,0,Iced Coffee,11
+2024-10-30,Wednesday,11,1,0,Sandwich,26
+2024-10-30,Wednesday,11,1,0,Banana Bread,24
+2024-10-30,Wednesday,11,1,0,Hot Chocolate,48
+2024-10-31,Thursday,18,0,0,Croissant,32
+2024-10-31,Thursday,18,0,0,Iced Coffee,25
+2024-10-31,Thursday,18,0,0,Sandwich,26
+2024-10-31,Thursday,18,0,0,Banana Bread,26
+2024-10-31,Thursday,18,0,0,Hot Chocolate,28
+2024-11-01,Friday,21,0,0,Croissant,33
+2024-11-01,Friday,21,0,0,Iced Coffee,25
+2024-11-01,Friday,21,0,0,Sandwich,35
+2024-11-01,Friday,21,0,0,Banana Bread,35
+2024-11-01,Friday,21,0,0,Hot Chocolate,28
+2024-11-02,Saturday,18,0,1,Croissant,67
+2024-11-02,Saturday,18,0,1,Iced Coffee,47
+2024-11-02,Saturday,18,0,1,Sandwich,38
+2024-11-02,Saturday,18,0,1,Banana Bread,48
+2024-11-02,Saturday,18,0,1,Hot Chocolate,54
+2024-11-03,Sunday,26,0,0,Croissant,65
+2024-11-03,Sunday,26,0,0,Iced Coffee,99
+2024-11-03,Sunday,26,0,0,Sandwich,35
+2024-11-03,Sunday,26,0,0,Banana Bread,37
+2024-11-03,Sunday,26,0,0,Hot Chocolate,8
+2024-11-04,Monday,17,0,0,Croissant,33
+2024-11-04,Monday,17,0,0,Iced Coffee,30
+2024-11-04,Monday,17,0,0,Sandwich,36
+2024-11-04,Monday,17,0,0,Banana Bread,30
+2024-11-04,Monday,17,0,0,Hot Chocolate,37
+2024-11-05,Tuesday,30,0,0,Croissant,29
+2024-11-05,Tuesday,30,0,0,Iced Coffee,58
+2024-11-05,Tuesday,30,0,0,Sandwich,25
+2024-11-05,Tuesday,30,0,0,Banana Bread,37
+2024-11-05,Tuesday,30,0,0,Hot Chocolate,3
+2024-11-06,Wednesday,26,0,0,Croissant,35
+2024-11-06,Wednesday,26,0,0,Iced Coffee,48
+2024-11-06,Wednesday,26,0,0,Sandwich,33
+2024-11-06,Wednesday,26,0,0,Banana Bread,35
+2024-11-06,Wednesday,26,0,0,Hot Chocolate,5
+2024-11-07,Thursday,20,0,0,Croissant,36
+2024-11-07,Thursday,20,0,0,Iced Coffee,28
+2024-11-07,Thursday,20,0,0,Sandwich,37
+2024-11-07,Thursday,20,0,0,Banana Bread,36
+2024-11-07,Thursday,20,0,0,Hot Chocolate,25
+2024-11-08,Friday,25,0,0,Croissant,21
+2024-11-08,Friday,25,0,0,Iced Coffee,25
+2024-11-08,Friday,25,0,0,Sandwich,37
+2024-11-08,Friday,25,0,0,Banana Bread,30
+2024-11-08,Friday,25,0,0,Hot Chocolate,28
+2024-11-09,Saturday,27,0,1,Croissant,88
+2024-11-09,Saturday,27,0,1,Iced Coffee,146
+2024-11-09,Saturday,27,0,1,Sandwich,53
+2024-11-09,Saturday,27,0,1,Banana Bread,68
+2024-11-09,Saturday,27,0,1,Hot Chocolate,11
+2024-11-10,Sunday,32,0,0,Croissant,63
+2024-11-10,Sunday,32,0,0,Iced Coffee,100
+2024-11-10,Sunday,32,0,0,Sandwich,34
+2024-11-10,Sunday,32,0,0,Banana Bread,38
+2024-11-10,Sunday,32,0,0,Hot Chocolate,11
+2024-11-11,Monday,30,0,0,Croissant,27
+2024-11-11,Monday,30,0,0,Iced Coffee,29
+2024-11-11,Monday,30,0,0,Sandwich,39
+2024-11-11,Monday,30,0,0,Banana Bread,30
+2024-11-11,Monday,30,0,0,Hot Chocolate,10
+2024-11-12,Tuesday,21,0,0,Croissant,32
+2024-11-12,Tuesday,21,0,0,Iced Coffee,27
+2024-11-12,Tuesday,21,0,0,Sandwich,41
+2024-11-12,Tuesday,21,0,0,Banana Bread,32
+2024-11-12,Tuesday,21,0,0,Hot Chocolate,35
+2024-11-13,Wednesday,24,0,0,Croissant,25
+2024-11-13,Wednesday,24,0,0,Iced Coffee,37
+2024-11-13,Wednesday,24,0,0,Sandwich,40
+2024-11-13,Wednesday,24,0,0,Banana Bread,33
+2024-11-13,Wednesday,24,0,0,Hot Chocolate,36
+2024-11-14,Thursday,25,0,0,Croissant,24
+2024-11-14,Thursday,25,0,0,Iced Coffee,35
+2024-11-14,Thursday,25,0,0,Sandwich,20
+2024-11-14,Thursday,25,0,0,Banana Bread,31
+2024-11-14,Thursday,25,0,0,Hot Chocolate,31
+2024-11-15,Friday,29,0,1,Croissant,40
+2024-11-15,Friday,29,0,1,Iced Coffee,56
+2024-11-15,Friday,29,0,1,Sandwich,57
+2024-11-15,Friday,29,0,1,Banana Bread,38
+2024-11-15,Friday,29,0,1,Hot Chocolate,3
+2024-11-16,Saturday,29,1,1,Croissant,91
+2024-11-16,Saturday,29,1,1,Iced Coffee,111
+2024-11-16,Saturday,29,1,1,Sandwich,48
+2024-11-16,Saturday,29,1,1,Banana Bread,76
+2024-11-16,Saturday,29,1,1,Hot Chocolate,22
+2024-11-17,Sunday,22,0,0,Croissant,59
+2024-11-17,Sunday,22,0,0,Iced Coffee,42
+2024-11-17,Sunday,22,0,0,Sandwich,44
+2024-11-17,Sunday,22,0,0,Banana Bread,44
+2024-11-17,Sunday,22,0,0,Hot Chocolate,55
+2024-11-18,Monday,28,0,0,Croissant,34
+2024-11-18,Monday,28,0,0,Iced Coffee,38
+2024-11-18,Monday,28,0,0,Sandwich,43
+2024-11-18,Monday,28,0,0,Banana Bread,30
+2024-11-18,Monday,28,0,0,Hot Chocolate,1
+2024-11-19,Tuesday,25,0,0,Croissant,29
+2024-11-19,Tuesday,25,0,0,Iced Coffee,33
+2024-11-19,Tuesday,25,0,0,Sandwich,40
+2024-11-19,Tuesday,25,0,0,Banana Bread,36
+2024-11-19,Tuesday,25,0,0,Hot Chocolate,22
+2024-11-20,Wednesday,23,0,0,Croissant,26
+2024-11-20,Wednesday,23,0,0,Iced Coffee,35
+2024-11-20,Wednesday,23,0,0,Sandwich,44
+2024-11-20,Wednesday,23,0,0,Banana Bread,36
+2024-11-20,Wednesday,23,0,0,Hot Chocolate,27
+2024-11-21,Thursday,31,0,0,Croissant,28
+2024-11-21,Thursday,31,0,0,Iced Coffee,58
+2024-11-21,Thursday,31,0,0,Sandwich,28
+2024-11-21,Thursday,31,0,0,Banana Bread,40
+2024-11-21,Thursday,31,0,0,Hot Chocolate,5
+2024-11-22,Friday,24,0,1,Croissant,37
+2024-11-22,Friday,24,0,1,Iced Coffee,47
+2024-11-22,Friday,24,0,1,Sandwich,40
+2024-11-22,Friday,24,0,1,Banana Bread,37
+2024-11-22,Friday,24,0,1,Hot Chocolate,37
+2024-11-23,Saturday,23,0,1,Croissant,77
+2024-11-23,Saturday,23,0,1,Iced Coffee,82
+2024-11-23,Saturday,23,0,1,Sandwich,61
+2024-11-23,Saturday,23,0,1,Banana Bread,40
+2024-11-23,Saturday,23,0,1,Hot Chocolate,55
+2024-11-24,Sunday,32,1,0,Croissant,61
+2024-11-24,Sunday,32,1,0,Iced Coffee,81
+2024-11-24,Sunday,32,1,0,Sandwich,43
+2024-11-24,Sunday,32,1,0,Banana Bread,41
+2024-11-24,Sunday,32,1,0,Hot Chocolate,11
+2024-11-25,Monday,29,0,0,Croissant,32
+2024-11-25,Monday,29,0,0,Iced Coffee,66
+2024-11-25,Monday,29,0,0,Sandwich,28
+2024-11-25,Monday,29,0,0,Banana Bread,26
+2024-11-25,Monday,29,0,0,Hot Chocolate,6
+2024-11-26,Tuesday,23,1,0,Croissant,31
+2024-11-26,Tuesday,23,1,0,Iced Coffee,32
+2024-11-26,Tuesday,23,1,0,Sandwich,53
+2024-11-26,Tuesday,23,1,0,Banana Bread,26
+2024-11-26,Tuesday,23,1,0,Hot Chocolate,43
+2024-11-27,Wednesday,20,0,0,Croissant,32
+2024-11-27,Wednesday,20,0,0,Iced Coffee,38
+2024-11-27,Wednesday,20,0,0,Sandwich,29
+2024-11-27,Wednesday,20,0,0,Banana Bread,32
+2024-11-27,Wednesday,20,0,0,Hot Chocolate,34
+2024-11-28,Thursday,35,1,0,Croissant,22
+2024-11-28,Thursday,35,1,0,Iced Coffee,49
+2024-11-28,Thursday,35,1,0,Sandwich,40
+2024-11-28,Thursday,35,1,0,Banana Bread,23
+2024-11-28,Thursday,35,1,0,Hot Chocolate,13
+2024-11-29,Friday,25,0,1,Croissant,45
+2024-11-29,Friday,25,0,1,Iced Coffee,43
+2024-11-29,Friday,25,0,1,Sandwich,43
+2024-11-29,Friday,25,0,1,Banana Bread,43
+2024-11-29,Friday,25,0,1,Hot Chocolate,34
+2024-11-30,Saturday,24,0,1,Croissant,105
+2024-11-30,Saturday,24,0,1,Iced Coffee,45
+2024-11-30,Saturday,24,0,1,Sandwich,52
+2024-11-30,Saturday,24,0,1,Banana Bread,56
+2024-11-30,Saturday,24,0,1,Hot Chocolate,53
+2024-12-01,Sunday,25,0,0,Croissant,77
+2024-12-01,Sunday,25,0,0,Iced Coffee,45
+2024-12-01,Sunday,25,0,0,Sandwich,41
+2024-12-01,Sunday,25,0,0,Banana Bread,45
+2024-12-01,Sunday,25,0,0,Hot Chocolate,37
+2024-12-02,Monday,22,0,0,Croissant,33
+2024-12-02,Monday,22,0,0,Iced Coffee,31
+2024-12-02,Monday,22,0,0,Sandwich,40
+2024-12-02,Monday,22,0,0,Banana Bread,26
+2024-12-02,Monday,22,0,0,Hot Chocolate,26
+2024-12-03,Tuesday,25,0,0,Croissant,35
+2024-12-03,Tuesday,25,0,0,Iced Coffee,33
+2024-12-03,Tuesday,25,0,0,Sandwich,29
+2024-12-03,Tuesday,25,0,0,Banana Bread,28
+2024-12-03,Tuesday,25,0,0,Hot Chocolate,30
+2024-12-04,Wednesday,14,0,0,Croissant,27
+2024-12-04,Wednesday,14,0,0,Iced Coffee,8
+2024-12-04,Wednesday,14,0,0,Sandwich,41
+2024-12-04,Wednesday,14,0,0,Banana Bread,38
+2024-12-04,Wednesday,14,0,0,Hot Chocolate,56
+2024-12-05,Thursday,29,0,0,Croissant,24
+2024-12-05,Thursday,29,0,0,Iced Coffee,49
+2024-12-05,Thursday,29,0,0,Sandwich,26
+2024-12-05,Thursday,29,0,0,Banana Bread,31
+2024-12-05,Thursday,29,0,0,Hot Chocolate,12
+2024-12-06,Friday,23,0,0,Croissant,27
+2024-12-06,Friday,23,0,0,Iced Coffee,16
+2024-12-06,Friday,23,0,0,Sandwich,37
+2024-12-06,Friday,23,0,0,Banana Bread,29
+2024-12-06,Friday,23,0,0,Hot Chocolate,17
+2024-12-07,Saturday,23,0,1,Croissant,92
+2024-12-07,Saturday,23,0,1,Iced Coffee,61
+2024-12-07,Saturday,23,0,1,Sandwich,62
+2024-12-07,Saturday,23,0,1,Banana Bread,51
+2024-12-07,Saturday,23,0,1,Hot Chocolate,51
+2024-12-08,Sunday,20,1,0,Croissant,76
+2024-12-08,Sunday,20,1,0,Iced Coffee,48
+2024-12-08,Sunday,20,1,0,Sandwich,48
+2024-12-08,Sunday,20,1,0,Banana Bread,49
+2024-12-08,Sunday,20,1,0,Hot Chocolate,72
+2024-12-09,Monday,32,0,0,Croissant,25
+2024-12-09,Monday,32,0,0,Iced Coffee,47
+2024-12-09,Monday,32,0,0,Sandwich,43
+2024-12-09,Monday,32,0,0,Banana Bread,28
+2024-12-09,Monday,32,0,0,Hot Chocolate,1
+2024-12-10,Tuesday,28,1,0,Croissant,29
+2024-12-10,Tuesday,28,1,0,Iced Coffee,59
+2024-12-10,Tuesday,28,1,0,Sandwich,41
+2024-12-10,Tuesday,28,1,0,Banana Bread,20
+2024-12-10,Tuesday,28,1,0,Hot Chocolate,13
+2024-12-11,Wednesday,30,0,0,Croissant,29
+2024-12-11,Wednesday,30,0,0,Iced Coffee,80
+2024-12-11,Wednesday,30,0,0,Sandwich,33
+2024-12-11,Wednesday,30,0,0,Banana Bread,35
+2024-12-11,Wednesday,30,0,0,Hot Chocolate,6
+2024-12-12,Thursday,27,1,0,Croissant,27
+2024-12-12,Thursday,27,1,0,Iced Coffee,45
+2024-12-12,Thursday,27,1,0,Sandwich,37
+2024-12-12,Thursday,27,1,0,Banana Bread,19
+2024-12-12,Thursday,27,1,0,Hot Chocolate,9
+2024-12-13,Friday,20,1,0,Croissant,19
+2024-12-13,Friday,20,1,0,Iced Coffee,28
+2024-12-13,Friday,20,1,0,Sandwich,33
+2024-12-13,Friday,20,1,0,Banana Bread,34
+2024-12-13,Friday,20,1,0,Hot Chocolate,51
+2024-12-14,Saturday,27,0,1,Croissant,81
+2024-12-14,Saturday,27,0,1,Iced Coffee,79
+2024-12-14,Saturday,27,0,1,Sandwich,73
+2024-12-14,Saturday,27,0,1,Banana Bread,77
+2024-12-14,Saturday,27,0,1,Hot Chocolate,18
+2024-12-15,Sunday,20,0,0,Croissant,63
+2024-12-15,Sunday,20,0,0,Iced Coffee,34
+2024-12-15,Sunday,20,0,0,Sandwich,63
+2024-12-15,Sunday,20,0,0,Banana Bread,39
+2024-12-15,Sunday,20,0,0,Hot Chocolate,33
+2024-12-16,Monday,27,0,0,Croissant,20
+2024-12-16,Monday,27,0,0,Iced Coffee,68
+2024-12-16,Monday,27,0,0,Sandwich,47
+2024-12-16,Monday,27,0,0,Banana Bread,24
+2024-12-16,Monday,27,0,0,Hot Chocolate,0
+2024-12-17,Tuesday,26,0,0,Croissant,21
+2024-12-17,Tuesday,26,0,0,Iced Coffee,59
+2024-12-17,Tuesday,26,0,0,Sandwich,41
+2024-12-17,Tuesday,26,0,0,Banana Bread,35
+2024-12-17,Tuesday,26,0,0,Hot Chocolate,4
+2024-12-18,Wednesday,20,0,0,Croissant,22
+2024-12-18,Wednesday,20,0,0,Iced Coffee,24
+2024-12-18,Wednesday,20,0,0,Sandwich,37
+2024-12-18,Wednesday,20,0,0,Banana Bread,18
+2024-12-18,Wednesday,20,0,0,Hot Chocolate,32
+2024-12-19,Thursday,27,0,0,Croissant,34
+2024-12-19,Thursday,27,0,0,Iced Coffee,41
+2024-12-19,Thursday,27,0,0,Sandwich,28
+2024-12-19,Thursday,27,0,0,Banana Bread,17
+2024-12-19,Thursday,27,0,0,Hot Chocolate,1
+2024-12-20,Friday,26,0,0,Croissant,20
+2024-12-20,Friday,26,0,0,Iced Coffee,56
+2024-12-20,Friday,26,0,0,Sandwich,31
+2024-12-20,Friday,26,0,0,Banana Bread,38
+2024-12-20,Friday,26,0,0,Hot Chocolate,5
+2024-12-21,Saturday,19,0,1,Croissant,70
+2024-12-21,Saturday,19,0,1,Iced Coffee,64
+2024-12-21,Saturday,19,0,1,Sandwich,68
+2024-12-21,Saturday,19,0,1,Banana Bread,53
+2024-12-21,Saturday,19,0,1,Hot Chocolate,50
+2024-12-22,Sunday,22,0,0,Croissant,84
+2024-12-22,Sunday,22,0,0,Iced Coffee,37
+2024-12-22,Sunday,22,0,0,Sandwich,44
+2024-12-22,Sunday,22,0,0,Banana Bread,37
+2024-12-22,Sunday,22,0,0,Hot Chocolate,36
+2024-12-23,Monday,19,0,0,Croissant,26
+2024-12-23,Monday,19,0,0,Iced Coffee,30
+2024-12-23,Monday,19,0,0,Sandwich,36
+2024-12-23,Monday,19,0,0,Banana Bread,34
+2024-12-23,Monday,19,0,0,Hot Chocolate,23
+2024-12-24,Tuesday,19,0,0,Croissant,23
+2024-12-24,Tuesday,19,0,0,Iced Coffee,28
+2024-12-24,Tuesday,19,0,0,Sandwich,43
+2024-12-24,Tuesday,19,0,0,Banana Bread,25
+2024-12-24,Tuesday,19,0,0,Hot Chocolate,23
+2024-12-25,Wednesday,32,0,0,Croissant,38
+2024-12-25,Wednesday,32,0,0,Iced Coffee,69
+2024-12-25,Wednesday,32,0,0,Sandwich,44
+2024-12-25,Wednesday,32,0,0,Banana Bread,23
+2024-12-25,Wednesday,32,0,0,Hot Chocolate,4
+2024-12-26,Thursday,25,0,0,Croissant,35
+2024-12-26,Thursday,25,0,0,Iced Coffee,35
+2024-12-26,Thursday,25,0,0,Sandwich,35
+2024-12-26,Thursday,25,0,0,Banana Bread,19
+2024-12-26,Thursday,25,0,0,Hot Chocolate,22
+2024-12-27,Friday,24,1,0,Croissant,27
+2024-12-27,Friday,24,1,0,Iced Coffee,33
+2024-12-27,Friday,24,1,0,Sandwich,38
+2024-12-27,Friday,24,1,0,Banana Bread,34
+2024-12-27,Friday,24,1,0,Hot Chocolate,60
+2024-12-28,Saturday,28,0,1,Croissant,100
+2024-12-28,Saturday,28,0,1,Iced Coffee,61
+2024-12-28,Saturday,28,0,1,Sandwich,54
+2024-12-28,Saturday,28,0,1,Banana Bread,51
+2024-12-28,Saturday,28,0,1,Hot Chocolate,9
+2024-12-29,Sunday,24,1,0,Croissant,53
+2024-12-29,Sunday,24,1,0,Iced Coffee,48
+2024-12-29,Sunday,24,1,0,Sandwich,49
+2024-12-29,Sunday,24,1,0,Banana Bread,47
+2024-12-29,Sunday,24,1,0,Hot Chocolate,82
+2024-12-30,Monday,26,0,0,Croissant,34
+2024-12-30,Monday,26,0,0,Iced Coffee,50
+2024-12-30,Monday,26,0,0,Sandwich,38
+2024-12-30,Monday,26,0,0,Banana Bread,29
+2024-12-30,Monday,26,0,0,Hot Chocolate,3
